@@ -1,0 +1,87 @@
+cff-version: 1.2.0
+message: "If you use this software or the associated data, please cite the paper below and this repository."
+title: "tambopata-co2-gcb-2026: analysis code for eddy-covariance CO2 and water fluxes at Tambopata (PE-TNR)"
+type: software
+authors:
+  # ORCIDs to be added in v1.0.1: uncomment and fill `orcid:` per author.
+  - given-names: Rafael
+    family-names: Stern
+    affiliation: "Stanford University"
+  - given-names: Rudi
+    family-names: Cruz
+    affiliation: "Pontificia Universidad Católica del Perú"
+  - given-names: Robinson
+    family-names: Negrón-Juárez
+    affiliation: "Lawrence Berkeley National Laboratory"
+  - given-names: Esteban
+    family-names: Ramos
+    affiliation: "Pontificia Universidad Católica del Perú"
+  - given-names: "Sara H."
+    family-names: Knox
+    affiliation: "McGill University"
+  - given-names: "Alison M."
+    family-names: Hoyt
+    affiliation: "Stanford University"
+  - given-names: "Robert B."
+    family-names: Jackson
+    affiliation: "Stanford University"
+  - given-names: Fa
+    family-names: Li
+    affiliation: "Stanford University"
+  - given-names: Archana
+    family-names: Dayalu
+    affiliation: "Home Energy Efficiency Team (HEET)"
+  - given-names: Richard
+    family-names: Pernak
+    affiliation: "Atmospheric and Environmental Research (AER)"
+  - given-names: John
+    family-names: Grace
+    affiliation: "University of Edinburgh"
+  - given-names: Emanuel
+    family-names: Gloor
+    affiliation: "University of Leeds"
+  - given-names: Norma
+    family-names: Salinas
+    affiliation: "Pontificia Universidad Católica del Perú"
+  - given-names: "Eric G."
+    family-names: Cosio
+    affiliation: "Pontificia Universidad Católica del Perú"
+repository-code: "https://github.com/rafastern/tambopata-co2-gcb-2026"
+license: MIT
+version: "1.0.0"
+date-released: "2026-09-18"
+preferred-citation:
+  type: article
+  title: "Long-Term Flux Measurements in Southwestern Amazonia Reveal a Near-Neutral CO2 Balance and Unique Effects of El Niño-Southern Oscillation"
+  journal: "Global Change Biology"
+  year: 2026
+  status: submitted
+  authors:
+    - given-names: Rafael
+      family-names: Stern
+    - given-names: Rudi
+      family-names: Cruz
+    - given-names: Robinson
+      family-names: Negrón-Juárez
+    - given-names: Esteban
+      family-names: Ramos
+    - given-names: "Sara H."
+      family-names: Knox
+    - given-names: "Alison M."
+      family-names: Hoyt
+    - given-names: "Robert B."
+      family-names: Jackson
+    - given-names: Fa
+      family-names: Li
+    - given-names: Archana
+      family-names: Dayalu
+    - given-names: Richard
+      family-names: Pernak
+    - given-names: John
+      family-names: Grace
+    - given-names: Emanuel
+      family-names: Gloor
+    - given-names: Norma
+      family-names: Salinas
+    - given-names: "Eric G."
+      family-names: Cosio

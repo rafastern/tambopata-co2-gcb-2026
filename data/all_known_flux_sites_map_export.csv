@@ -1,0 +1,1801 @@
+site_id,site_name,latitude,longitude,country,data_availability
+,Arcturus,-23.8587,148.4746,Australia,no public data
+,Bia Tano Forest Reserve,7.03325,-2.62253,Ghana,no public data
+,French Island,-38.3879,145.2783,Australia,no public data
+,Gatum Pasture,-37.3903,141.9716,Australia,no public data
+,Gorigo,10.93567,-0.82412,Ghana,no public data
+,Janga,10.1299,-0.8837,Ghana,no public data
+,Mole,9.3386,-1.8689,Ghana,no public data
+,Wankama F,13.64251,2.631118,Niger,no public data
+,Wankama M,13.647488,2.63374,Niger,no public data
+,Yarramundi,-33.6135,150.7349,Australia,no public data
+AE-ADb,Abu Dhabi Eastern Mangroves,24.450883,54.428792,United Arab Emirates,no public data
+AKO,Akou green belt,34.786316,134.370861,Japan,accessible data
+API,Appi forest meteorology research site,40.022356,140.939255,Japan,accessible data
+AQ-Kse,,-62.232115,-58.804321,Antarctica,no public data
+AR-Bal,Balcarce BA,-37.7596,-58.3024,Argentina,accessible data
+AR-CCa,Carlos Casares agriculture,-35.621,-61.3181,Argentina,accessible data
+AR-CCg,Carlos Casares grassland,-35.9244,-61.1855,Argentina,accessible data
+AR-CEL,CELPA Mar Chiquita BA,-37.7028,-57.4192,Argentina,no public data
+AR-ROM,Romano Mar Chiquita BA,-37.5508,-57.2972,Argentina,no public data
+AR-SLu,San Luis,-33.4648,-66.4598,Argentina,accessible data
+AR-TF1,Rio Moat bog,-54.9733,-66.7335,Argentina,accessible data
+AR-TF2,Rio Pipo bog,-54.8269,-68.4549,Argentina,accessible data
+AR-Vir,Virasoro,-28.2395,-56.1886,Argentina,accessible data
+AT-Fue,,47.367374,11.854709,Austria,no public data
+AT-Hnb,,47.803333,13.591389,Austria,no public data
+AT-Inn,Innsbruck,47.264096,11.385816,Austria,accessible data
+AT-Lan,,47.061221,10.963454,Austria,no public data
+AT-Leu,,47.378036,11.16278,Austria,no public data
+AT-Mac,Marchegg,48.286557,16.907064,Austria,no public data
+AT-Mmg,Mieming,47.316563,10.970089,Austria,accessible data
+AT-Neu,Neustift,47.116318,11.320229,Austria,accessible data
+AT-Nsd,Neusiedl,47.76914,16.758492,Austria,accessible data
+AT-PsM,Puergschachen Moor,47.58145,14.347197,Austria,accessible data
+AT-Rtz,Rotholz,47.3947222222222,11.80472222,Austria,accessible data
+AT-Sch,,47.387291,11.247935,Austria,no public data
+AT-StA,,47.12528,11.28944,Austria,no public data
+AT-StM,,47.12889,11.30583,Austria,no public data
+AT-StP,,47.13694,11.30361,Austria,no public data
+AT-VnA,Vienna Arsenal,48.1818376569608,16.3908508945253,Austria,accessible data
+AT-Zoe,Zoebelboden,47.842247,14.444137,Austria,accessible data
+AU-APL,Alpine Peatland,-36.862222,147.320833,Australia,accessible data
+AU-ASM,Alice Springs Mulga,-22.283,133.249,Australia,accessible data
+AU-Ade,Adelaide River,-13.0769,131.1178,Australia,accessible data
+AU-Arc,,-23.85872,148.4746,Australia,no public data
+AU-Boy,Boyagin,-32.477093,116.938559,Australia,accessible data
+AU-Cas,,-19.5667,147.4,Australia,no public data
+AU-Cm1,Coleambally Irrigation Area (maize and wheat rotation),-34.7597,146.0153,Australia,no public data
+AU-Cm2,Coleambally (rice),-34.9252,145.8212,Australia,no public data
+AU-Col,Collie,-33.42,116.237,Australia,accessible data
+AU-Cow,Caow Bay,-16.238189,145.42715,Australia,accessible data
+AU-Cpr,Calperum Chowilla,-34.0027,140.5877,Australia,accessible data
+AU-Ctr,Cape Tribulation,-16.103219,145.446922,Australia,accessible data
+AU-Cum,Cumberland Plain,-33.615278,150.723611,Australia,accessible data
+AU-DaP,Daly River Pasture,-14.0633,131.3181,Australia,accessible data
+AU-DaS,Daly River Savanna,-14.1592,131.3881,Australia,accessible data
+AU-Drg,Dargo,-37.1334,147.1709,Australia,no public data
+AU-Dry,Dry River,-15.2588,132.3706,Australia,accessible data
+AU-Emr,Emerald Arcturus,-23.85872,148.4746,Australia,accessible data
+AU-Fle,Fletcherview Tropical Rangeland,-19.887285,146.189138,Australia,accessible data
+AU-Fog,Fogg Dam,-12.5452,131.3072,Australia,accessible data
+AU-GWW,Great Western Woodlands,-30.1914,120.65417,Australia,accessible data
+AU-Gin,Gingin,-31.376351,115.71377,Australia,accessible data
+AU-How,Howard Springs,-12.4952,131.15005,Australia,accessible data
+AU-Lit,Litchfield,-13.17904,130.79455,Australia,accessible data
+AU-Lon,Longreach,-23.52327,144.31042,Australia,accessible data
+AU-Lox,Loxton Eddy Covariance Site,-34.47035,140.65512,Australia,accessible data
+AU-MvA,Myall Vale A,-30.543,150.02,Australia,accessible data
+AU-MvB,Myall Vale B,-30.697,150.09,Australia,accessible data
+AU-Nim,Nimmo,-36.2159,148.5528,Australia,no public data
+AU-Otw,Otway,-38.525,142.81,Australia,accessible data
+AU-RDF,"Red Dirt Melon Farm, Northern Territory",-14.563639,132.477567,Australia,accessible data
+AU-Rgf,Ridgefield,-32.506102,116.966827,Australia,accessible data
+AU-Rig,Riggs Creek,-36.6499,145.5759,Australia,accessible data
+AU-Rob,Robson Creek,-17.11746943,145.6301375,Australia,accessible data
+AU-Sam,Samford,-27.38806,152.87778,Australia,accessible data
+AU-Sil,Silver Plains,-42.090556,147.0875,Australia,accessible data
+AU-Sno,Aqueduct Snow Gum,-36.375649,148.43585,Australia,accessible data
+AU-Stp,Sturt Plains,-17.1507,133.3502,Australia,accessible data
+AU-TTE,Ti Tree East,-22.287,133.64,Australia,accessible data
+AU-Tum,Tumbarumba,-35.6566,148.1516,Australia,accessible data
+AU-Vir,Virginia Park,-19.8833,146.5539,Australia,no public data
+AU-Wac,Wallaby Creek,-37.4259,145.1878,Australia,accessible data
+AU-Wel,Wellington,-32.5727,148.9843,Australia,accessible data
+AU-Wgt,Wedgetail,-42.09139,147.07944,Australia,accessible data
+AU-Whr,Whroo,-36.6732,145.0294,Australia,accessible data
+AU-Wom,Wombat Forest,-37.422506,144.094046,Australia,accessible data
+AU-Wrr,Warra,-43.09502,146.65452,Australia,accessible data
+AU-Ya1,Yarramundi Control,-33.613469,150.734864,Australia,accessible data
+AU-Ya2,Yarramundi Irrigated,-33.620812,150.763284,Australia,accessible data
+AU-Ync,Yanco,-34.9878,146.2908,Australia,accessible data
+AUY,Australia Yanco site,-34.988282,146.291606,Australia,no public data
+BD-MYM,Mymensingh Flux Study Site,24.739348,90.426292,Bangladesh,no public data
+BE-Bra,Brasschaat,51.30761,4.51984,Belgium,accessible data
+BE-Dor,Dorinne,50.311874,4.968113,Belgium,accessible data
+BE-Jal,La Robinette (Jalhay),50.56388889,6.073333333,Belgium,accessible data
+BE-Lcr,Lochristi,51.11218,3.85043,Belgium,accessible data
+BE-Lon,Lonzee,50.55162,4.746234,Belgium,accessible data
+BE-Maa,Maasmechelen,50.97987,5.631851,Belgium,accessible data
+BE-Vie,Vielsalm,50.304962,5.998099,Belgium,accessible data
+BE-Wm1,Westmalle1,51.2964325,4.657248497,Belgium,no public data
+BE-Wm2,Westmalle2,51.29747009,4.662438393,Belgium,no public data
+BF-Bon,Bontioli,10.865556,-3.072778,Burkina Faso,accessible data
+BF-Btd,Boudtenga,12.46,-1.25,Burkina Faso,no public data
+BF-Nzg,Nazinga,11.1516,-1.5857,Burkina Faso,no public data
+BFS,Barkot Flux Research Site,30.110682,78.20343,India,no public data
+BFT,Betul Flux Research Site,21.863011,77.426019,India,no public data
+BG-Crp,Chirpan,42.2149,25.2817,Bulgaria,no public data
+BG-Rzn,Rozhen,41.6947,24.7387,Bulgaria,no public data
+BJ-Bfg,Bellefoungou,9.791,1.718,Benin,accessible data
+BJ-Bir,Bira,9.82777,1.71573,Benin,no public data
+BJ-Db1,Dangbo,6.607338,2.543043,Benin,accessible data
+BJ-Db2,Dangbo 2,6.6014,2.5465,Benin,no public data
+BJ-Nan,Nangatchori,9.646983333,1.740883333,Benin,no public data
+BJ-Nhu,Nalohou,9.74,1.6,Benin,accessible data
+BKS,Bukit Soeharto,-0.861389,117.044722,Indonesia,no public data
+BNS,Xishuangbanna Site,21.9275,101.265278,China,no public data
+BR-BNT,BIONTE,-2.6334,-60.1505,Brazil,no public data
+BR-Ban,BR-Ban,-9.82442,-50.1591,Brazil,no public data
+BR-CAX,"CAX, FLONA Caxiuanã micromet tower",-1.7185,-51.4583,Brazil,no public data
+BR-CMT,Capuaba farm Mato Grosso,-13.2875,-56.0882,Brazil,no public data
+BR-CST,Caatinga Serra Talhada,-7.9682,-38.3842,Brazil,accessible data
+BR-CUI,Micrometeorological studies project in Amazonian mangroves,-0.6661,-47.2833,Brazil,no public data
+BR-CUP,Cupari Tapajos National Forest,-3.7874,-55.3664,Brazil,no public data
+BR-IAB,Instituto Arruda Botelho - Wooded Cerrado and Mixed Agriculture,-22.171,-47.871,Brazil,no public data
+BR-ITA,MataFLUX: Multi-species tree restoration planting,-23.0604,-48.6467,Brazil,accessible data
+BR-JI1,Fazenda Nossa Senhora (FNS),-10.7618,-62.3572,Brazil,no public data
+BR-Ji2,BR-Ji2,-10.0832,-61.9309,Brazil,no public data
+BR-Ji3,Ji-Paraná/RO - Reserva Biológica do Jaru (RBJ),-10.1866,-61.8725,Brazil,accessible data
+BR-MOJ,"Moju/PA, Commercial oil palm plantation",-1.9787,-48.6147,Brazil,no public data
+BR-Ma2,Manaus - ZF2 K34,-2.6091,-60.2093,Brazil,accessible data
+BR-Ma3,"ZF3, Colosso farm",-2.3907,-59.8835,Brazil,accessible data
+BR-Npw,Northern Pantanal Wetland,-16.498,-56.412,Brazil,accessible data
+BR-PRS,Paraíso do Sul,-29.744,-53.1503,Brazil,no public data
+BR-SGC,"São Gabriel da Cachoeira (Balaio Indigenous Reserve, Pico da Neblina National Park)",0.2101,-66.7529,Brazil,no public data
+BR-SM1,Cachoeira do Sul Rice Paddy,-30.2771,-53.1479,Brazil,accessible data
+BR-SM2,Pedras Altas Grassland,-31.7259,-53.5339,Brazil,no public data
+BR-SM3,Santa Maria Grassland,-29.7243,-53.76,Brazil,no public data
+BR-SP1,Southern Pantanal Wetland,-19.565,-57.018,Brazil,no public data
+BR-Sa1,Santarem-Km67-Primary Forest,-2.8567,-54.9589,Brazil,accessible data
+BR-Sa2,BR-Sa2,-3.0119,-54.5365,Brazil,no public data
+BR-Sa3,Santarem-Km83-Logged Forest,-3.018,-54.9714,Brazil,accessible data
+BR-XPW,XomanoFlux,-16.373,-56.461,Brazil,accessible data
+BW-GhG,Ghanzi Grass Site,-21.51,21.74,Botswana,no public data
+BW-GhM,Ghanzi Mixed Site,-21.2,21.75,Botswana,no public data
+BW-Ghz,Ghanzi/Okwa River Crossing,-22.40916667,21.71305556,Botswana,accessible data
+BW-Gum,Guma,-18.964722,22.37111,Botswana,accessible data
+BW-Kvb,Kavimba,-18.1076,24.637,Botswana,no public data
+BW-Ma1,BW-Ma1,-19.9165,23.56033333,Botswana,accessible data
+BW-Mkt,Maun - Kalahari Transect,-19.923,23.594,Botswana,accessible data
+BW-Nxr,Nxaraga,-19.548056,23.179167,Botswana,accessible data
+CA-AF1,Acadia Research Forest,46.0092,-66.3627,Canada,accessible data
+CA-ARB,Attawapiskat River Bog,52.695,-83.9452,Canada,accessible data
+CA-ARF,Attawapiskat River Fen,52.7008,-83.955,Canada,accessible data
+CA-BCW,Big Creek Watershed,42.6206,-80.5516,Canada,no public data
+CA-BOU,Bouleau Peatland,50.5244,-63.2064,Canada,accessible data
+CA-BSM,Black Spruce Moss Forest,50.9021,-63.4052,Canada,no public data
+CA-CBO,"Ontario - Mixed Deciduous, Borden Forest Site",44.3184,-79.9341,Canada,accessible data
+CA-CF1,Churchill Fen Site 1,58.6658,-93.83,Canada,accessible data
+CA-CF2,Churchill Fen Site 2,58.6658,-93.83,Canada,accessible data
+CA-CF3,Churchill Fen Site 3,58.6658,-93.8304,Canada,accessible data
+CA-CHA,New Brunswick - Charlie Lake site 01 (immature balsam fir forest to be thinned in year 3),45.8847,-67.3569,Canada,accessible data
+CA-CQ1,Québec. Carbonique1 - Lac Saint-Pierre Disturbed Marsh,46.1645,-72.685,Canada,no public data
+CA-CRB,Carberry,49.9061,-99.348,Canada,no public data
+CA-Ca1,British Columbia - 1949 Douglas-fir stand,49.8673,-125.3336,Canada,accessible data
+CA-Ca2,British Columbia - Clearcut Douglas-fir stand (harvested winter 1999/2000),49.8705,-125.2909,Canada,accessible data
+CA-Ca3,British Columbia - Pole sapling Douglas-fir stand,49.5346,-124.9004,Canada,accessible data
+CA-DB2,Delta Burns Bog 2,49.119,-122.9951,Canada,accessible data
+CA-DBB,Delta Burns Bog,49.1293,-122.9849,Canada,accessible data
+CA-DL1,Daring Lake - Mixed Tundra,64.8689,-111.5748,Canada,no public data
+CA-DL2,Daring Lake - Fen,64.8648,-111.5677,Canada,no public data
+CA-DSM,Delta Salt Marsh,49.0887,-122.8954,Canada,accessible data
+CA-Da1,,64.8689,-111.5748,Canada,no public data
+CA-Da2,,64.8648,-111.5748,Canada,no public data
+CA-EM1,Newdale Manitoba,50.3623,-100.2024,Canada,accessible data
+CA-EM2,Shoal Lake Manitoba,50.3706,-100.5339,Canada,accessible data
+CA-EM3,Oak Hammock Marsh Manitoba,50.1738,-97.1231,Canada,no public data
+CA-ER1,Elora Research Station,43.6405,-80.4123,Canada,accessible data
+CA-GL3,Long Point,42.5487,-80.0165,Canada,no public data
+CA-Gro,"Ontario - Groundhog River, Boreal Mixedwood Forest",48.2167,-82.1556,Canada,accessible data
+CA-HPC,Havikpak Creek,68.3203,-133.5188,Canada,accessible data
+CA-IQT,Iqaluit Tundra,63.7507,-68.4285,Canada,no public data
+CA-KLP,Kinoje Lake Peatland,51.5902,-81.7684,Canada,accessible data
+CA-KT1,Kenton - Field 1,50.022,-100.5713,Canada,no public data
+CA-KT2,Kenton - Field 2,50.0241,-100.5721,Canada,no public data
+CA-LET,Alberta - Mixed Grass Prairie,49.7093,-112.9402,Canada,no public data
+CA-LP1,British Columbia - Mountain pine beetle-attacked lodgepole pine stand,55.1119,-122.8414,Canada,accessible data
+CA-LU1,Steen River,59.5951,-117.2862,Canada,accessible data
+CA-LU2,Lutose,59.4405,-117.2422,Canada,accessible data
+CA-LUM,Luther Marsh Wildlife Management Area,43.9201,-80.4052,Canada,no public data
+CA-MA1,Manitoba Agricultural Site 1,50.1645,-97.8762,Canada,accessible data
+CA-MA2,Manitoba Agricultural Site 2,50.171,-97.8762,Canada,accessible data
+CA-MA3,Manitoba Agricultural Site 3,50.1774,-97.8686,Canada,accessible data
+CA-MR3,Mattheis Ranch - E3 South,50.8671,-111.9045,Canada,no public data
+CA-MR5,Mattheis Ranch - E5 North,50.9056,-111.8823,Canada,no public data
+CA-MTK,Mittimatalik (Pond Inlet) Tundra,72.6695,-77.9981,Canada,accessible data
+CA-Man,Manitoba - Northern Old Black Spruce (former BOREAS Northern Study Area),55.8796,-98.4808,Canada,accessible data
+CA-Mer,"Ontario - Eastern Peatland, Mer Bleue",45.4094,-75.5186,Canada,accessible data
+CA-NS1,UCI-1850 burn site,55.8792,-98.4839,Canada,accessible data
+CA-NS2,UCI-1930 burn site,55.9058,-98.5247,Canada,accessible data
+CA-NS3,UCI-1964 burn site,55.9117,-98.3822,Canada,accessible data
+CA-NS4,UCI-1964 burn site wet,55.9144,-98.3806,Canada,accessible data
+CA-NS5,UCI-1981 burn site,55.8631,-98.485,Canada,accessible data
+CA-NS6,UCI-1989 burn site,55.9167,-98.9644,Canada,accessible data
+CA-NS7,UCI-1998 burn site,56.6358,-99.9483,Canada,accessible data
+CA-NS8,UCI-2003 burn site,55.8981,-98.2161,Canada,no public data
+CA-Na1,New Brunswick - 1967 Balsam Fir - Nashwaak Lake Site 01 (Mature balsam fir forest),46.4722,-67.1,Canada,accessible data
+CA-OAS,"Saskatchewan - Western Boreal, Mature Aspen",53.6289,-106.1978,Canada,accessible data
+CA-OBS,"Saskatchewan - Western Boreal, Mature Black Spruce",53.9872,-105.1178,Canada,accessible data
+CA-OJP,"Saskatchewan - Western Boreal, Mature Jack Pine",53.9163,-104.692,Canada,accessible data
+CA-PB1,Polar Bear 1 - Peat Plateau,54.9417,-83.4579,Canada,accessible data
+CA-PB2,Polar Bear 2 - Fen,54.9389,-83.4736,Canada,accessible data
+CA-QCU,"Quebec - Eastern Boreal, Black Spruce/Jack Pine Cutover",49.2671,-74.0365,Canada,accessible data
+CA-Qc2,Quebec - 1975 Harvested Black Spruce (HBS75),49.7598,-74.5711,Canada,accessible data
+CA-Qfo,"Quebec - Eastern Boreal, Mature Black Spruce",49.6925,-74.3421,Canada,accessible data
+CA-RBM,Richmond Brackish Marsh,49.1313,-123.1964,Canada,accessible data
+CA-RPN,Robinsons_Natural_Bog_NL,48.2604,-58.6632,Canada,no public data
+CA-RPP,Robinsons_Peatland_Pasture_NL,48.2632,-58.667,Canada,no public data
+CA-RSB,Resolute Bay Polar Desert,74.7279,-94.8985,Canada,accessible data
+CA-SCB,Scotty Creek Bog,61.3089,-121.2984,Canada,accessible data
+CA-SCC,Scotty Creek Landscape,61.3079,-121.2992,Canada,accessible data
+CA-SF1,"Saskatchewan - Western Boreal, forest burned in 1977",54.485,-105.8176,Canada,accessible data
+CA-SF2,"Saskatchewan - Western Boreal, forest burned in 1989",54.2539,-105.8775,Canada,accessible data
+CA-SF3,"Saskatchewan - Western Boreal, forest burned in 1998",54.0916,-106.0053,Canada,accessible data
+CA-SJ1,"Saskatchewan - Western Boreal, Jack Pine forest harvested in 1994",53.908,-104.656,Canada,accessible data
+CA-SJ2,"Saskatchewan - Western Boreal, Jack Pine forest harvested in 2002",53.945,-104.649,Canada,accessible data
+CA-SJ3,"Saskatchewan - Western Boreal, Jack Pine forest harvested in 1975 (BOREAS Young Jack Pine)",53.8758,-104.6453,Canada,no public data
+CA-SMC,Smith Creek,63.1534,-123.2522,Canada,accessible data
+CA-ST1,South Tobacco Creek - Field 1,49.3373,-98.3652,Canada,no public data
+CA-ST2,South Tobacco Creek - Field 2,49.3383,-98.3676,Canada,no public data
+CA-TP1,Ontario - Turkey Point 2002 Plantation White Pine,42.6609,-80.5595,Canada,accessible data
+CA-TP2,Ontario - Turkey Point 1989 Plantation White Pine,42.7744,-80.4588,Canada,accessible data
+CA-TP3,Ontario - Turkey Point 1974 Plantation White Pine,42.7068,-80.3483,Canada,accessible data
+CA-TP4,Ontario - Turkey Point 1939 Plantation White Pine,42.7102,-80.3574,Canada,accessible data
+CA-TPA,Ontario Turkey Point Observatory Agricultural Site,42.6947,-80.3487,Canada,accessible data
+CA-TPD,Ontario - Turkey Point Mature Deciduous,42.6353,-80.5577,Canada,accessible data
+CA-TVC,Trail Valley Creek,68.7462,-133.5017,Canada,accessible data
+CA-WP1,"Alberta - Western Peatland - LaBiche River,Black Spruce/Larch Fen",54.9538,-112.467,Canada,no public data
+CA-WP2,Alberta - Western Peatland - Poor Fen (Sphagnum moss),55.5375,-112.3343,Canada,no public data
+CA-WP3,Alberta - Western Peatland - Rich Fen (Carex),54.47,-113.32,Canada,no public data
+CA-WRF,White River Fen,48.3513,-85.3571,Canada,no public data
+CBF,Boreal Forest _ Chinese Boreal Forest Ecosystem Research Station,51.781111,123.017778,China,no public data
+CBS,Changbaishan Site,41.4025,128.095833,China,no public data
+CD-Ygb,Yangambi,0.814444,24.502472,Congo - Kinshasa,accessible data
+CG-Hin,Hinda,-4.68111111,12.0036111,Congo - Brazzaville,accessible data
+CG-Kis,Kissoko,-4.791388889,11.98222222,Congo - Brazzaville,accessible data
+CG-Tch,Tchizalamou,-4.289166667,11.65641667,Congo - Brazzaville,accessible data
+CH-Aws,Alp Weissenstein,46.58311,9.790639,Switzerland,accessible data
+CH-BaA,Basel Aeschenplatz,47.55123,7.5956,Switzerland,accessible data
+CH-BaK,Basel Klingelbergstrasse,47.56173,7.58049,Switzerland,accessible data
+CH-Cha,Chamau,47.21022,8.410444,Switzerland,accessible data
+CH-Crs,Cressier,47.0436,7.0475,Switzerland,accessible data
+CH-DAS,Davos sub-canopy,46.815333,9.855972,Switzerland,no public data
+CH-Dav,Davos,46.81533,9.85591,Switzerland,accessible data
+CH-Dsc,,46.7896991,9.8644382,Switzerland,no public data
+CH-For,Forel,46.527206,6.7595406,Switzerland,accessible data
+CH-Frk,Furka,46.577637,8.421592,Switzerland,accessible data
+CH-Fru,Früebüel,47.115833,8.537778,Switzerland,accessible data
+CH-HON,Hoenggerberg,47.41887,8.491318,Switzerland,no public data
+CH-LAS,Lägeren sub-canopy,47.478333,8.364389,Switzerland,no public data
+CH-Lae,Laegern,47.478333,8.364389,Switzerland,accessible data
+CH-Oe1,Oensingen grassland,47.28583333,7.731944444,Switzerland,accessible data
+CH-Oe2,Oensingen crop,47.286415,7.73375,Switzerland,accessible data
+CH-Oe3,Oensingen extensive grassland,47.1712,7.436,Switzerland,accessible data
+CH-Psx,Posieux,46.76778,7.107754,Switzerland,no public data
+CH-Rh1,Ruethi peatland reference,47.3,9.5,Switzerland,accessible data
+CH-Rh2,Ruethi peatland covered,47.3,9.5,Switzerland,accessible data
+CH-Rtb,Rietholzbach,47.3804,8.9934,Switzerland,accessible data
+CH-See,,47.0567,8.4644,Switzerland,no public data
+CH-TAN,T?nikon,47.480611,8.911861,Switzerland,no public data
+CH-Tnk,Tanikon,47.48058,8.911775,Switzerland,accessible data
+CH-Wdg,Waldegg,47.490902,8.919831,Switzerland,no public data
+CL-ACF,Alerce Costero Forest,-40.1726,-73.4439,Chile,accessible data
+CL-FJS,Fray Jorge Shrubland,-30.657,-71.665,Chile,no public data
+CL-OPP,Omora Park Peatland,-54.9394,-67.6418,Chile,no public data
+CL-SDF,Senda Darwin Forest,-41.883,-73.676,Chile,accessible data
+CL-SDP,Senda Darwin Peatland,-41.879,-73.666,Chile,accessible data
+CLM,Chi-Lan Mountain Research Site,24.58333,121.4,Taiwan,no public data
+CM2,"Dongtan Monitoring Station of Global Carbon Flux, Chongming, Shanghai No.2",31.5169,121.9717,China,no public data
+CN-Aan,Ansai,36.858333,109.323056,China,no public data
+CN-Anh,CN-Anh,33,117,China,no public data
+CN-Aro,Arou,38.04734,100.46432,China,accessible data
+CN-Ash,Ailaoshan,24.53806,101.02917,China,accessible data
+CN-Bao,Baotianman,33.333333,111.783333,China,no public data
+CN-BeO,Beijing Olympic Forest Park,40.02621,116.39143,China,accessible data
+CN-Bed,CN-Bed,39.5306,116.252,China,no public data
+CN-CM1,"Dongtan Monitoring Station of Global Carbon Flux, Chongming, Shanghai No.1",31.5847,121.9035,China,no public data
+CN-CM3,"Dongtan Monitoring Station of Global Carbon Flux, Chongming, Shanghai No.3",31.5167,121.9607,China,no public data
+CN-Cha,Changsha(Paddy Rice),42.4025,128.0958,China,accessible data
+CN-Cng,Changling,44.5934,123.5092,China,accessible data
+CN-DaW,Dangxiong wetland,30.4691,91.0624,China,accessible data
+CN-Dam,Daman (Paddy Rice),41.643944,110.328389,China,no public data
+CN-Dan,Dangxiong,30.4978,91.0664,China,accessible data
+CN-Dax,Daxinganling,50.833333,121.508333,China,no public data
+CN-Din,Dinghushan,23.1733,112.5361,China,accessible data
+CN-Do1,Dongtan 1 (CM1),31.516667,121.960717,China,no public data
+CN-Do2,Dongtan 2 (CM2),31.58465,121.90345,China,no public data
+CN-Do3,Dongtan 3 (CM3),31.5167,121.9607,China,no public data
+CN-Du1,CN-Du1,42.013591,116.30127,China,no public data
+CN-Du2,Duolun_grassland (D01),42.0467,116.2836,China,accessible data
+CN-Du3,Duolun Degraded Meadow,42.0551,116.2809,China,accessible data
+CN-Dwu,,45.56,117.000278,China,no public data
+CN-Dzo,Danzhou,19.546,109.475,China,accessible data
+CN-GuT,Guoluo Tuihua,34.35481,100.4872,China,accessible data
+CN-HBG,Haibei Potentilla fruticisa bosk Site,37.482078,101.20039,China,no public data
+CN-Ha2,Haibei Shrubland,37.6086,101.3269,China,accessible data
+CN-HaM,Qinghai Flux Research Site,37.607433,101.332,China,accessible data
+CN-HaW,Haibei Wetland,37.607655,101.32899,China,accessible data
+CN-Hab,,37.607432,101.332,China,no public data
+CN-Hai1,Haibei Shrubland,37.6652,101.331167,China,no public data
+CN-Hai2,Haibei Meadow,37.612767,101.3128,China,no public data
+CN-Hai3,Haibei marsh grass,37.608417,101.327333,China,no public data
+CN-Hgu,Hongyuan,32.8453,102.59,China,no public data
+CN-Hny,CN-Hny,29.31,112.51,China,no public data
+CN-Htg,Huitong,26.789957,109.590131,China,no public data
+CN-Hug,Hulunber Grassland,49.316667,119.916667,China,no public data
+CN-Huz,Huzhong Boreal Forest,51.781111,123.017778,China,no public data
+CN-In1,Inner Mongolia dune,42.929708,120.70735,China,accessible data
+CN-In2,Inner Mongolia grassland,42.933964,120.710964,China,accessible data
+CN-In3,Inner Mongolia soybean,42.925572,120.699039,China,accessible data
+CN-In4,Inner Mongolia maize,42.944133,120.726622,China,accessible data
+CN-In5,Inner Mongolia no grazing,42.934158,120.709078,China,accessible data
+CN-In6,Inner Mongolia heavy grazing,42.934014,120.711547,China,accessible data
+CN-In7,Inner Mongolia light grazing,42.933919,120.709606,China,accessible data
+CN-In8,Inner Mongolia medium grazing,42.933967,120.710531,China,accessible data
+CN-JND,Jiangdu Flux Site,32.583,119.7,China,no public data
+CN-JRS,Jurong Ecological Experimental Station,31.806831,119.217264,China,no public data
+CN-Jnz,Jiaozhouwan(Paddy Rice),41.148056,121.173889,China,no public data
+CN-Jzh,Jinzhou,41.14806,121.20167,China,accessible data
+CN-KO4,,40.538333,108.693611,China,no public data
+CN-KO5,,40.3808,108.5486,China,no public data
+CN-Ku1,CN-Ku1,40.538333,108.693611,China,no public data
+CN-Ku2,CN-Ku2,40.3808,108.5486,China,no public data
+CN-Lak,Lake Dongting,29.499739,113.052239,China,no public data
+CN-Lak1,Bifenggang at Lake Tai,31.1685,120.3972,China,no public data
+CN-Lak2,Dapugang at Lake Tai,31.2661,119.9312,China,no public data
+CN-Lak3,Meiliangwan at Lake Tai,31.4197,120.2139,China,no public data
+CN-Lak4,pingtaishan at Lake Tai,31.2323,120.1086,China,no public data
+CN-Lak5,Xiaoleishan at Lake Tai,30.9972,120.1344,China,no public data
+CN-Lao,,45.279839,127.578206,China,no public data
+CN-Lch,Luancheng,37.88936,114.69289,China,accessible data
+CN-Lin,Linze(Paddy Rice),39.327222,100.140833,China,no public data
+CN-Lsh,Laoshan,45.27984,127.57821,China,accessible data
+CN-Lua,Luancheng,37.531389,114.412778,China,no public data
+CN-NRW,Natural reed flux plot _ Panjin Wetland Ecosystem Research Station,41.15074,121.911736,China,no public data
+CN-Naq,Naqu,31.641883,92.01535,China,no public data
+CN-PRW,Paddy rice flux plot _ Panjin Wetland Ecosystem Research Station,41.151774,121.914886,China,no public data
+CN-Pa1,Panjin Wetland (Natural Reed),40.941326,121.960532,China,no public data
+CN-Pa2,Panjin Wetland (Paddy Rice),40.932712,121.964594,China,no public data
+CN-QHB,Qinghai Flux Research Site,37.607432,101.332,China,no public data
+CN-Qia,Qianyanzhou,26.7414,115.0581,China,accessible data
+CN-Qng,Qinling,33.46807,108.49102,China,accessible data
+CN-San,Sanjiangyuan,47.58495,133.661764,China,no public data
+CN-Siz,Siziwang Fenced (SZWF),41.766667,111.883333,China,no public data
+CN-SnB,Shanghai Beihu wetland,31.6905,121.6563,China,accessible data
+CN-Son,Songnen(meadow steppe),49.833333,128,China,no public data
+CN-Sw2,Siziwang Grazed (SZWG),41.7902,111.8971,China,accessible data
+CN-Tao,Taoyuan,28.89714,111.41052,China,no public data
+CN-Tbs,,31.37,91.9,China,no public data
+CN-Tha,A'rou Freeze Thaw Observation Station,38.047306,100.464333,China,no public data
+CN-Wnb,Wulanbuhe,40.42876,106.74229,China,accessible data
+CN-Wux,Wuxi,31.653889,120.545278,China,no public data
+CN-Xfs,Xilinhot Inner Mongolia fenced typical steppe (TSX),44.1341667,116.3286111,China,no public data
+CN-Xg2,,44.088889,113.574167,China,no public data
+CN-Xi1,CN-Xi1,43.545833,116.677778,China,no public data
+CN-Xi2,Xilinhot grassland site (X03),43.55444,116.6714,China,accessible data
+CN-Xi3,Inner Mongolia (NMG),44.133333,116.3,China,no public data
+CN-Xsh,Xishuangbanna,21.9275,101.2652778,China,no public data
+CN-YaS,Yanchi natural shrubland,37.70877,107.22655,China,accessible data
+CN-Yan,Yanchi Planted Shrubs,37.82861,107.49278,China,accessible data
+CN-Ygk,Yingke Oasis Station,38.857139,100.410333,China,no public data
+CN-Yuc,Yucheng,36.8287,116.5701,China,accessible data
+CN-ZRS,Zoige Flux Research Station,33.104283,102.651466,China,no public data
+CN-Zha,zhanjiang zhangjiangkou,23.906444,117.402806,China,no public data
+CO-GV1,Guatavita Station 1,4.9139,-73.7365,Colombia,no public data
+CO-GV2,Guatavita Station 2,4.9168,-73.7429,Colombia,no public data
+CR-AqC,Aquiares Coffee-Flux,9.938369,-83.7289,Costa Rica,accessible data
+CR-DOS,La Selva T2,10.4322,-84.0106,Costa Rica,no public data
+CR-Fsc,Filadelfia sugar cane cropland,10.4189,-85.4732,Costa Rica,accessible data
+CR-LSE,La Selva,10.4233,-84.0211,Costa Rica,no public data
+CR-NMR,Nicoya melon-rice cropland,10.0829,-85.4694,Costa Rica,no public data
+CR-SOC,Soltis Center,10.3827,-84.621,Costa Rica,accessible data
+CZ-BK1,Bily Kriz forest,49.502075,18.536882,Czechia,accessible data
+CZ-BK2,Bily Kriz grassland,49.49443,18.54285,Czechia,accessible data
+CZ-KrP,Kresin u Pacova,49.573257,15.078773,Czechia,accessible data
+CZ-LnG,Lanzhot Grassland,48.704224,16.926247,Czechia,accessible data
+CZ-Lnz,Lanzhot,48.68155,16.946331,Czechia,accessible data
+CZ-RAJ,Rajec,49.44372,16.696512,Czechia,accessible data
+CZ-Stn,Stitna,49.035976,17.9699,Czechia,accessible data
+CZ-Wet,Trebon (CZECHWET),49.02465,14.77035,Czechia,accessible data
+D01,Duolun steppe,42.046667,116.283611,China,no public data
+D02,Duolun cropland,42.013591,116.30127,China,no public data
+DE-Akm,Anklam,53.86617,13.68342,Germany,accessible data
+DE-Amv,Amtsvenn,52.1757,6.95537,Germany,accessible data
+DE-Bay,Bayreuth,50.14194,11.86694,Germany,accessible data
+DE-BeC,Berlin TU Campus Charlottenburg,52.512283,13.327855,Germany,no public data
+DE-BeR,Berlin-Rothenburgstrasse,52.457233,13.315827,Germany,accessible data
+DE-Bmb,Blumberg,53.19738524,14.11784115,Germany,no public data
+DE-Bou,Bourtanger Moor,52.655284,7.183765,Germany,no public data
+DE-Brs,Braunschweig,52.29663,10.44871,Germany,accessible data
+DE-Dgw,Dagowsee,53.15141,13.054275,Germany,accessible data
+DE-Dms,Dameswalde,52.81329338,13.27269694,Germany,no public data
+DE-Etn,Ettenheim,48.268486,7.878243,Germany,accessible data
+DE-Exb,Exelberg,48.2490180401971,16.2444925956449,Germany,no public data
+DE-Fen,Fendt,47.832905,11.060701,Germany,accessible data
+DE-Geb,Gebesee,51.09973,10.91463,Germany,accessible data
+DE-Gri,Grillenburg,50.950005,13.512533,Germany,accessible data
+DE-GsB,Grosses Bruch,52.029648,11.10478,Germany,accessible data
+DE-Gwg,Graswang,47.570835,11.032604,Germany,accessible data
+DE-Hai,Hainich,51.079212,10.452168,Germany,accessible data
+DE-Har,Hartheim,47.93391,7.59814,Germany,accessible data
+DE-Hbs,Heisenbergstrasse,51.96923,7.59588,Germany,no public data
+DE-Hdn,Heydenhof,53.86825,13.268543,Germany,accessible data
+DE-Hkb,Hakenberg,52.806796,12.840433,Germany,no public data
+DE-Hmm,Himmelmoor,53.739807,9.848723,Germany,no public data
+DE-HoH,Hohes Holz,52.08656,11.22235,Germany,accessible data
+DE-Hte,Huetelmoor,54.210278,12.176111,Germany,accessible data
+DE-Hzd,Hetzdorf,50.96381,13.48978,Germany,accessible data
+DE-Kan,,53.784328,10.604899,Germany,no public data
+DE-Kie,Kienhorst,52.97343,13.64393,Germany,no public data
+DE-Kli,Klingenberg,50.893044,13.5223,Germany,accessible data
+DE-Lkb,Lackenberg,49.09961667,13.30466667,Germany,accessible data
+DE-Lnf,Leinefelde,51.328217,10.3678,Germany,accessible data
+DE-Lue,Luenten,52.118,6.815,Germany,no public data
+DE-Me2,Mehrstedt 2,51.275366,10.65555,Germany,accessible data
+DE-Meh,Mehrstedt,51.27530556,10.65547222,Germany,accessible data
+DE-Msr,Mooseurach,47.80918,11.456168,Germany,accessible data
+DE-Obe,Oberbärenburg,50.7864,13.72168,Germany,accessible data
+DE-Okd,Oberklenkendorf,53.412597,9.092467,Germany,no public data
+DE-RbW,Rottenbuch West,47.72991,10.96898,Germany,accessible data
+DE-Rns,Reinshof,51.494953,9.932118,Germany,accessible data
+DE-RuC,Wustebach Clearcut,50.5031,6.336,Germany,accessible data
+DE-RuM,Merzenhausen,50.929787,6.2969923,Germany,accessible data
+DE-RuR,Rollesbroich,50.621914,6.304126,Germany,accessible data
+DE-RuS,Selhausen Juelich,50.865906,6.4471445,Germany,accessible data
+DE-RuW,Wustebach,50.50493,6.3309627,Germany,accessible data
+DE-SbM,Sonnenberger Moor,51.764927,10.51799,Germany,accessible data
+DE-Sch,,47.6,12.9666667,Germany,no public data
+DE-Seh,Selhausen,50.8706233,6.44965306,Germany,accessible data
+DE-SfN,Schechenfilz Nord,47.80639,11.3275,Germany,accessible data
+DE-SfS,Schechenfilz Sued,47.80629,11.32757,Germany,accessible data
+DE-Sng,,51.75813,9.59333,Germany,no public data
+DE-Spw,Spreewald,51.89225,14.03369,Germany,accessible data
+DE-Tha,Tharandt,50.962597,13.565333,Germany,accessible data
+DE-UtM,Uchter Moor,52.5083,8.825833,Germany,accessible data
+DE-Wet,Wetzstein,50.4535,11.45753333,Germany,accessible data
+DE-Zrk,Zarnekow,53.875943,12.88901,Germany,accessible data
+DFR,Dry Dipterocarp Forest Flux Ratchaburi,13.583333,99.5,Thailand,no public data
+DK-Eng,Enghave,55.69052778,12.19175,Denmark,accessible data
+DK-Fou,Foulum,56.4841995239257,9.58722019195556,Denmark,accessible data
+DK-Gds,Gludsted Plantage,56.0737,9.3341,Denmark,accessible data
+DK-Lva,DK-Lva,55.6833000183105,12.0832996368408,Denmark,accessible data
+DK-MkA,,56.38131,10.39461,Denmark,no public data
+DK-MkG,,56.38178,10.40312,Denmark,no public data
+DK-MkR,,56.38179,10.4006,Denmark,no public data
+DK-RCT,Risø Campus Tower,55.694101,12.088284,Denmark,accessible data
+DK-RCW,Risø Campus Willow,55.680683,12.101398,Denmark,accessible data
+DK-Ris,Risbyholm,55.53027778,12.09722222,Denmark,accessible data
+DK-SVA,,57.23313,9.84435,Denmark,no public data
+DK-SVG,,57.22988,9.83291,Denmark,no public data
+DK-SVR,,57.23312,9.84462,Denmark,no public data
+DK-SkA,,55.93777,8.44656,Denmark,no public data
+DK-SkG,,55.94116,8.447355,Denmark,no public data
+DK-Skj,Skjern,55.91273,8.40481,Denmark,accessible data
+DK-Sor,DK-Sor,55.48587,11.644645,Denmark,accessible data
+DK-Ulb,,56.2910278,8.42802778,Denmark,no public data
+DK-Vng,Voulundgaard,56.037476,9.160709,Denmark,accessible data
+DSX,Desert Steppe _ Xilingol Temperate Grassland Ecosystem Research Station,44.088889,113.574167,China,no public data
+DTK,Dasan Station site,78.916667,11.933333,Norway,no public data
+DTT,"Diverse land-cover site at Tak, Thailand",16.93806,99.429889,Thailand,no public data
+DW7,Dongwu steppe,45.56,117.000278,China,no public data
+EE-Aar,,58.31305,26.74388,Estonia,no public data
+EE-Ag1,Agali-1,58.287669,27.283174,Estonia,no public data
+EE-Ag2,Agali-2,58.289984,27.317972,Estonia,no public data
+EE-Aga,,58.287472,27.283525,Estonia,no public data
+EE-Hi1,,59.3505,27.1008,Estonia,no public data
+EE-Hi2,,59.3519,27.1016,Estonia,no public data
+EE-Jvs,Järvselja,58.274211,27.309952,Estonia,no public data
+EE-Ka1,,59.1411,27.6531,Estonia,no public data
+EE-Ka2,,59.1459,27.6636,Estonia,no public data
+EE-Ka3,,59.1417,27.6778,Estonia,no public data
+EE-Kru,Kauru,58.76435,26.113407,Estonia,no public data
+EE-Ku1,,58.4736,25.2125,Estonia,no public data
+EE-Ku2,,58.4744,25.2008,Estonia,no public data
+EE-Lv1,,58.5727,24.3819,Estonia,no public data
+EE-Lv2,,58.5719,24.3908,Estonia,no public data
+EE-Lv3,,58.573,24.3858,Estonia,no public data
+EE-Mam,,58.5791,24.4266,Estonia,no public data
+EE-Pdv,,59.0866,26.3744,Estonia,no public data
+EE-Ph1,,59.2658,27.6316,Estonia,no public data
+EE-Ph2,,59.2659,27.6314,Estonia,no public data
+EE-Pts,Pitsalu,58.562298,24.369932,Estonia,accessible data
+EE-Rmb,Rumba,58.7179133662191,24.1343435507405,Estonia,no public data
+EE-Rng,Ruhingu,57.913143,26.694048,Estonia,accessible data
+EE-Rok,,58.245336,27.299731,Estonia,no public data
+EE-San,,58.32704,26.21819,Estonia,no public data
+EE-Snk,Siniküla,58.518579,26.295077,Estonia,no public data
+EE-Stg,Soontaga Forest Station,58.023636,26.070753,Estonia,accessible data
+EE-Vg1,,58.43507,25.23629,Estonia,no public data
+EE-Vg2,,58.43662,25.23675,Estonia,no public data
+EE-Vnd,Vanda,58.2825663830624,26.7221425000703,Estonia,no public data
+ES-AP1,Almodóvar del Pinar 1,39.680985,-1.842411111,Spain,no public data
+ES-AP2,Almodóvar del Pinar 2,39.677269843,-1.84830946,Spain,no public data
+ES-Abr,Albuera,38.70184,-6.785881,Spain,accessible data
+ES-AfM,Alfacada Marsh,40.6823,0.8379,Spain,no public data
+ES-Agu,Aguamarga,36.939384,-2.034044,Spain,accessible data
+ES-Amo,Amoladeras,36.833405,-2.2522173,Spain,accessible data
+ES-CMb,Cuenca Las Majadas burned,40.258305811,-1.968060873,Spain,no public data
+ES-CMu,Cuenca Las Majadas unburned,40.252069225,-1.964783374,Spain,no public data
+ES-CPa,Cortes de Pallas,39.22417,-0.90305,Spain,accessible data
+ES-Cnd,Conde,37.914997,-3.227659,Spain,accessible data
+ES-Crg,Caroig,39.11926,-0.95852,Spain,accessible data
+ES-Cst,Castellar,42.305014,2.033568,Spain,no public data
+ES-Dnn,Doñana,36.995549,-6.513203,Spain,accessible data
+ES-EBn,El Bonillo,38.937065993,-2.64402303,Spain,no public data
+ES-ES1,El Saler (Valencia),39.34481,-0.31999,Spain,accessible data
+ES-ES2,El Saler-Sueca (Valencia),39.27438,-0.31641,Spain,accessible data
+ES-FcO,Finca Oran,38.823638,-1.85977,Spain,no public data
+ES-FtD,FuenteDuque,36.99818,-6.434566,Spain,accessible data
+ES-Gdn,Guadiana,37.91084,-3.228489,Spain,accessible data
+ES-HdD,Hinojosa del Duque,38.49679,-5.111296,Spain,accessible data
+ES-HeB,Hellín Burnt,38.40475,-1.726215,Spain,accessible data
+ES-Hen,Hellin,38.411087,-1.697534,Spain,accessible data
+ES-LBr,La Bertolina,42.098889,1.661389,Spain,no public data
+ES-LJu,Llano de los Juanes,36.926594,-2.752115,Spain,accessible data
+ES-LM1,Majadas del Tietar North,39.94269,-5.778683,Spain,accessible data
+ES-LM2,Majadas del Tietar South,39.934593,-5.775881,Spain,accessible data
+ES-LMa,Las Majadas de Tietar (Caceres),39.94033,-5.77465,Spain,accessible data
+ES-LTs,Las Tiesas Experimental Farm,39.042395,-2.089033,Spain,no public data
+ES-LgS,Laguna Seca,37.097936,-2.965833,Spain,accessible data
+ES-Ln1,Lanjaron-Non intervention,36.972098,-3.473851,Spain,accessible data
+ES-Ln2,Lanjaron-Salvage logging,36.969502,-3.475819,Spain,accessible data
+ES-Mcd,Moncada,39.58819,-0.39969,Spain,accessible data
+ES-Mr1,Mairena1,37.04903,-3.05217,Spain,no public data
+ES-Mr2,Mairena2,37.05347,-3.05732,Spain,no public data
+ES-MtB,MonteBlanco,37.02020645,-6.554403305,Spain,accessible data
+ES-MtN,MonteNegro,36.991805,-6.482628,Spain,accessible data
+ES-Mzn,Manzanera,40.089497,-0.827409,Spain,accessible data
+ES-PRt,,42.063333,1.513333,Spain,no public data
+ES-Pdu,Padul,37.016975,-3.609228,Spain,accessible data
+ES-Pzb,Pozoblanco,38.362118,-4.767329,Spain,accessible data
+ES-QdM,,39.4269051,-4.1171712,Spain,no public data
+ES-ReV,Riet Vell,40.6635,0.76719,Spain,no public data
+ES-SCf,Santa Clotilde forest,38.210142,-4.287495,Spain,no public data
+ES-SCg,Santa Clotilde grassland,38.210163,-4.289965,Spain,no public data
+ES-Srn,Sarrion,40.15,-0.838,Spain,no public data
+ES-Tol,,39.8600472,-4.0300639,Spain,no public data
+ES-Tz2,Tarazona de la Mancha 2,39.263688,-1.939085,Spain,no public data
+ES-TzM,Tarazona de la Mancha,39.265785,-1.9397246,Spain,accessible data
+ES-VDA,Vall d' Alinyà (Lleida),42.15111,1.44738,Spain,accessible data
+ES-Yst,Yeste,38.3351,-2.3571,Spain,accessible data
+ES-Zam,,42.9325,-2.8530556,Spain,no public data
+FFA,Fujisaki Farm Apple Orchard,40.654722,140.485278,Japan,no public data
+FI-Alk,Alkkia,62.183367,22.784233,Finland,accessible data
+FI-Ant,Anttila,63.16347,27.234991,Finland,accessible data
+FI-HTr,Helsinki Torni Hotel,60.16789,24.93845,Finland,no public data
+FI-Hy2,Hyytiala Clear Cut,61.84385,24.30433333,Finland,no public data
+FI-Hyy,Hyytiala,61.84741,24.29477,Finland,accessible data
+FI-Jo2,,60.89903,23.5128,Finland,no public data
+FI-Jo3,,60.8988,23.5131,Finland,no public data
+FI-Jok,Jokioinen,60.8986,23.51345,Finland,accessible data
+FI-Kaa,Kaamanen,69.14057,27.26985,Finland,accessible data
+FI-Ken,Kenttarova,67.98721,24.24301,Finland,accessible data
+FI-Kmp,Kumpula,60.20289,24.9611,Finland,accessible data
+FI-Kns,Kalevansuo,60.64683333,24.356167,Finland,accessible data
+FI-Kpv,Kilpisjarvi,69.062777778,20.797638889,Finland,no public data
+FI-Kvr,Kuivajarvi,61.84662,24.2804,Finland,accessible data
+FI-Let,Lettosuo,60.64183,23.95952,Finland,accessible data
+FI-Lom,Lompolojankka,67.99724,24.209179,Finland,accessible data
+FI-Nsv,Naarasneva,62.8639,24.08382,Finland,accessible data
+FI-Ouk,Oulanka,66.377517337,29.307680688,Finland,no public data
+FI-Pap,Pappilansuo,63.13806,27.246117,Finland,accessible data
+FI-Qvd,Qvidja,60.295242,22.391607,Finland,accessible data
+FI-Rk1,Ranskalankorpi clearcut,61.182877,25.269511,Finland,no public data
+FI-Rk2,Ranskalankorpi,61.182884,25.262684,Finland,accessible data
+FI-Ruk,Ruukki,64.68398,25.106318,Finland,accessible data
+FI-Sar,Särkisuo,63.15143,27.199064,Finland,accessible data
+FI-Si2,Siikaneva-2 Bog,61.8372,24.1967,Finland,accessible data
+FI-Sii,Siikaneva,61.83265,24.19285,Finland,accessible data
+FI-Skj,Siikajoki,64.7807,24.6515,Finland,no public data
+FI-Sod,Sodankyla,67.36239,26.63859,Finland,accessible data
+FI-Tvm,Tvärminne,59.8418,23.2503,Finland,accessible data
+FI-Var,Varrio,67.7549,29.61,Finland,accessible data
+FI-Ves,,61.3716,25.1055,Finland,no public data
+FR-Aur,FR-Aur,43.54965,1.106103,France,accessible data
+FR-Avi,Avignon,43.91608333,4.878055556,France,accessible data
+FR-Bil,Bilos,44.493652,-0.956092,France,accessible data
+FR-CLt,Col du Lautaret,45.0414,6.41053,France,accessible data
+FR-Cou,,44.7555556,-0.5555556,France,no public data
+FR-EM1,Estrées-Mons A27,49.8721083,3.02065,France,no public data
+FR-EM2,Estrees-Mons A28,49.87211,3.02065,France,accessible data
+FR-FBn,Font-Blanche,43.24079,5.67865,France,accessible data
+FR-Fgs,,48.38,-1.18,France,no public data
+FR-Fon,Fontainebleau-Barbeau,48.476357,2.780096,France,accessible data
+FR-Gri,Grignon,48.84422,1.95191,France,accessible data
+FR-Hes,FR-Hes,48.6741,7.06465,France,accessible data
+FR-LBr,Le Bray,44.71711,-0.7693,France,accessible data
+FR-LGt,La Guette,47.322918,2.284102,France,accessible data
+FR-Lam,Lamasquere,43.496437,1.237878,France,accessible data
+FR-Lq1,Laqueuille intensive,45.64305556,2.735833333,France,accessible data
+FR-Lq2,Laqueuille extensive,45.63919444,2.737027778,France,accessible data
+FR-Lqu,Laqueuille,45.6444,2.7349,France,accessible data
+FR-Lus,Lusignan,46.414246,0.1206518,France,accessible data
+FR-Mau,Mauzac,43.385,1.29306,France,accessible data
+FR-Mej,Mejusseaume,48.1184,-1.79635,France,accessible data
+FR-MsS,Montiers sur Saulx,48.53816,5.31187,France,no public data
+FR-Nzn,Naizin,48.005814,-2.81721,France,accessible data
+FR-OnV,,48.50846,5.213463,France,no public data
+FR-Pue,Puechabon,43.7413,3.5957,France,accessible data
+FR-Rpn,Rampillon,48.53863,3.062948,France,no public data
+FR-Ruy,Rully,46.866525,4.745622,France,no public data
+FR-Sac,Saclay,48.7227,2.142,France,no public data
+FR-Srt,Sirta,48.71779,2.20842,France,no public data
+FR-Tou,Toulouse,43.572857,1.37474,France,accessible data
+FR-Trs,Terrasolis,49.31138,4.040807,France,no public data
+GBK,Gimje Soybean Field,35.750917,126.81375,South Korea,no public data
+GF-Cpg,Carpagg,5.35325,-53.00432,French Guiana,no public data
+GF-Guy,Guyaflux (French Guiana),5.2787,-52.9248,French Guiana,accessible data
+GF-Nrg,,4.0423,-52.67495,French Guiana,no public data
+GH-Ank,Ankasa,5.268543,-2.694206,Ghana,accessible data
+GH-Kyr,Kayoro,10.918,-1.321,Ghana,no public data
+GL-Dsk,Disko,69.25349,-53.51413,Greenland,accessible data
+GL-Kbf,,64.1382,-51.3784,Greenland,no public data
+GL-NuF,Nuuk Fen,64.130936,-51.386066,Greenland,accessible data
+GL-NuH,Nuuk Heath,64.1382,-51.3784,Greenland,no public data
+GL-ZaF,Zackenberg Fen,74.48152,-20.555773,Greenland,accessible data
+GL-ZaH,Zackenberg Heath,74.4733,-20.550869,Greenland,accessible data
+GR-HeK,Heraklion Kornarou,35.33613,25.1328,Greece,accessible data
+GR-HeM,Heraklion Mastabas,35.32343,25.13017,Greece,accessible data
+GR-Prt,Pertouli,39.5434,21.4989,Greece,no public data
+GR-Vcs,Vocals,40.889737,24.84893,Greece,accessible data
+HCH,Hachihama Experimental Farm,34.533333,133.933333,Japan,no public data
+HFK,Haenam Farmland,34.553888,127.57,South Korea,no public data
+HFS,Haldwani Forest Plantation,29.149319,79.421103,India,no public data
+HK-MPM,Mai Po Mangrove,22.4982,114.0292,Hong Kong SAR China,no public data
+HR-Jst,Jastrebarsko oak forest,45.6194,15.6877,Croatia,no public data
+HRK,Hari Rural Rice Paddy,37.546211,126.326981,South Korea,no public data
+HU-Bug,HU-Bug,46.6911010742187,19.6012992858886,Hungary,accessible data
+HU-He1,Hegyhatsal,46.955947,16.652025,Hungary,accessible data
+HU-He2,Hegyhatsal tower 2,46.95515,16.652661,Hungary,no public data
+HU-Krt,Kartal,47.662,19.529,Hungary,no public data
+HU-Mat,HU-Mat,47.8469009399414,19.7259998321533,Hungary,accessible data
+HU-Spr,Sopron,47.6558725,16.4544737,Hungary,no public data
+ID-Buk,,-0.861389,117.044722,Indonesia,no public data
+ID-DTP,Degraded Tropical Peatland,0.69949138,102.793305,Indonesia,no public data
+ID-ITP,Intact Tropical Peatland,0.39520416,102.76455,Indonesia,no public data
+ID-JOP,Jambi Oil Palm plantation,-1.69306,103.39139,Indonesia,accessible data
+ID-Kan,,1,101.266667,Indonesia,no public data
+ID-PaB,Palangkaraya Drained Burnt forest,-2.340796,114.0379,Indonesia,accessible data
+ID-PaD,Palangkaraya Drained forest,-2.3460708,114.03641,Indonesia,accessible data
+ID-Pag,Palangkaraya undrained forest,-2.3239167,113.90439,Indonesia,accessible data
+IE-CLa,,52.95,-7.25,Ireland,no public data
+IE-Ca1,Carlow crop,52.85879167,-6.918136111,Ireland,accessible data
+IE-Ca2,Carlow grassland,52.86758,-6.91117,Ireland,accessible data
+IE-CaC,Carlow Conventional Tillage,52.85879,-6.918136,Ireland,accessible data
+IE-CaN,Carlow No Tillage,52.85879,-6.918136,Ireland,accessible data
+IE-Cra,Clara Raised Bog,53.32308,-7.64177,Ireland,accessible data
+IE-Dgm,Donoughmore,51.986179,-8.753931,Ireland,accessible data
+IE-Doa,Dooary,52.948732,-7.253945,Ireland,no public data
+IE-Dri,Dripsey,51.9866944,-8.75180556,Ireland,accessible data
+IE-Dyy,Doory,53.314,-7.606,Ireland,no public data
+IE-Gwr,Gowran,52.6365,-7.011306,Ireland,accessible data
+IE-JtC,Johnstown Castle,52.298188,-6.499806,Ireland,no public data
+IE-Kil,Killorglin - Glencar,51.96836111,-9.900305556,Ireland,accessible data
+IE-LmW,Leam West,53.45647,-9.89284,Ireland,no public data
+IE-Wex,,52.2981944,-6.4997778,Ireland,no public data
+IFS,IARI Flux Site,28.643839,77.152712,India,no public data
+IL-RmH,Ramat Hanadiv,32.5555,34.947285,Israel,accessible data
+IL-Yat,IL-Yat,31.345045,35.051987,Israel,accessible data
+IN-Bet,,21.863011,77.426019,India,no public data
+IN-Brk,,30.110682,78.20343,India,no public data
+IN-CRR,Central Rice Research Institute (CRRI),20.45188333,85.94026667,India,no public data
+IN-Hdw,,29.149319,79.421103,India,no public data
+IN-IAR,,28.643839,77.152712,India,no public data
+IRI,IRRI Flux Research Site,14.14119,121.26526,Philippines,no public data
+IS-Gun,Gunnarsholt,63.8333015441894,-20.2166996002197,Iceland,accessible data
+IT-Amp,Amplero,41.90409927,13.60515669,Italy,accessible data
+IT-Arz,Arzelle,45.61902,10.00228,Italy,accessible data
+IT-BCi,Borgo Cioffi,40.52375,14.957444,Italy,accessible data
+IT-BFt,Bosco Fontana,45.197754,10.741966,Italy,accessible data
+IT-Be1,Beano1,46.00361,13.02556,Italy,accessible data
+IT-Be2,IT-Be2,46.00431,13.02776,Italy,accessible data
+IT-Bon,IT-Bon,39.47777778,16.53472222,Italy,accessible data
+IT-BsB,Bussoleno Bosco,45.11823,7.161995,Italy,accessible data
+IT-Bsn,Bussoleno,45.11924,7.160429,Italy,accessible data
+IT-CA1,Castel d'Asso1,42.38041,12.026561,Italy,accessible data
+IT-CA2,Castel d'Asso2,42.37722,12.026039,Italy,accessible data
+IT-CA3,Castel d'Asso3,42.38,12.0222,Italy,accessible data
+IT-Cas,Castellaro,45.07004722,8.717522222,Italy,accessible data
+IT-CdD,,42.950231,12.381827,Italy,no public data
+IT-Cng,,44.71,11.53,Italy,no public data
+IT-Col,Collelongo,41.84936,13.58814,Italy,accessible data
+IT-Cp2,Castelporziano2,41.704266,12.357293,Italy,accessible data
+IT-Cp3,Castelporziano3,41.743778,12.420833,Italy,no public data
+IT-Cp4,Castelporziano4,41.711111,12.402222,Italy,no public data
+IT-Cp5,Castelporziano5,41.707333,12.402222,Italy,no public data
+IT-Cpz,Castelporziano,41.7052493,12.3761058,Italy,accessible data
+IT-Ctv,Castelvetrano,37.64416,12.84638,Italy,accessible data
+IT-Gln,,40.9471167,14.1170889,Italy,no public data
+IT-Isp,Ispra ABC-IS,45.812643,8.633579,Italy,accessible data
+IT-LMa,La Mandria,45.15258,7.58259,Italy,accessible data
+IT-La2,Lavarone2,45.9542,11.2853,Italy,accessible data
+IT-Lav,Lavarone,45.9562,11.28132,Italy,accessible data
+IT-Lec,Lecceto,43.30359,11.26975,Italy,accessible data
+IT-Lpd,Lampedusa,35.5252,12.5365,Italy,no public data
+IT-Lsn,Lison,45.740482,12.750297,Italy,accessible data
+IT-MBo,Monte Bondone,46.01468,11.045831,Italy,accessible data
+IT-MPn,,41.1073,14.7416,Italy,no public data
+IT-Mal,Malga Arpaco,46.11402,11.70334,Italy,accessible data
+IT-Mrs,Marsciano,42.927225,12.3651,Italy,no public data
+IT-MsN,,39.71472,16.27806,Italy,no public data
+IT-MtM,Muntatschinig Meadow,46.68702,10.579757,Italy,accessible data
+IT-MtP,Muntatschinig Pasture,46.684284,10.585237,Italy,accessible data
+IT-Neg,Negrisia - Ponte di Piave,45.74756389,12.44673056,Italy,accessible data
+IT-NiG,Nivolet grassland,45.51919,7.171434,Italy,accessible data
+IT-Niv,Nivolet,45.49091,7.13943,Italy,accessible data
+IT-Noe,Arca di Noe - Le Prigionette,40.606174,8.151694,Italy,accessible data
+IT-Non,Nonantola,44.69019,11.09109,Italy,accessible data
+IT-OVr,Osservatorio Valerio,43.912014,12.904041,Italy,no public data
+IT-OXm,Osservatorio Ximeniano Firenze,43.774464,11.255111,Italy,accessible data
+IT-PCm,Parco Urbano di Capodimonte,40.87728,14.2559,Italy,accessible data
+IT-PT1,Parco Ticino forest,45.20087222,9.061038889,Italy,accessible data
+IT-Pia,Pianosa,42.5838694,10.0784,Italy,accessible data
+IT-Prt,Palazzo Pretorio Prato,43.880556,11.096528,Italy,accessible data
+IT-Ren,IT-Ren,46.58686,11.43369,Italy,accessible data
+IT-Ro1,Roccarespampani 1,42.40812,11.93001,Italy,accessible data
+IT-Ro2,Roccarespampani 2,42.39026,11.92093,Italy,accessible data
+IT-Ro3,Roccarespampani 3,42.37539,11.91542,Italy,accessible data
+IT-Ro4,Roccarespampani 4,42.37333,11.91922,Italy,accessible data
+IT-Rut,Rutigliano,40.993753,17.03274,Italy,no public data
+IT-SMc,San Marcellino,40.84725555,14.25781666,Italy,no public data
+IT-SPC,San Pietro Capofiume,44.653869,11.62277,Italy,accessible data
+IT-SR2,San Rossore 2,43.73202,10.29091,Italy,accessible data
+IT-SRo,San Rossore,43.72786111,10.28444444,Italy,accessible data
+IT-Sas,Sassari,40.716957,8.575956,Italy,accessible data
+IT-Ter,,40.7037778,9.39816667,Italy,no public data
+IT-To1,Tolfa wet,42.18967363,11.92155414,Italy,accessible data
+IT-To2,Tolfa dry,42.18967363,11.92155414,Italy,accessible data
+IT-Tol,Tolfa,42.18967,11.92155,Italy,accessible data
+IT-Tor,Torgnon,45.84444,7.578055,Italy,accessible data
+IT-TrF,Torgnon-LD,45.82376,7.56089,Italy,accessible data
+IT-TrS,Torgnon Shrubland,45.844818,7.578673,Italy,no public data
+IT-VdA,Valle dell'Adige,46.19678,11.11354,Italy,accessible data
+IT-Vig,Vigevano,45.29591,8.87554,Italy,accessible data
+IT-Vte,Viote,46.01773,11.04096,Italy,no public data
+JAS,Jinzhou Agricultural Ecosystem Research Station,41.816667,121.2,China,no public data
+JP-Aka,,43.116667,144.366667,Japan,no public data
+JP-Ako,Akou green belt,34.735192,134.374798,Japan,accessible data
+JP-Aou,,34.7863,134.371,Japan,no public data
+JP-Api,Appi forest meteorology research site,40.001358,140.93658,Japan,accessible data
+JP-App,,40.022356,140.939255,Japan,no public data
+JP-BBY,Bibai bog,43.322998,141.81065,Japan,accessible data
+JP-Bre,,42.4,142.46667,Japan,no public data
+JP-CFK,Cheongmicheon Farmland Site,37.15979,127.652729,Japan,no public data
+JP-Das,,78.916667,11.933333,Japan,no public data
+JP-Fhk,Fuji Hokuroku Flux Observation Site,35.443554,138.7647,Japan,accessible data
+JP-Fjy,Fujiyoshida forest meteorology research site,35.45454,138.76225,Japan,accessible data
+JP-Fmt,Field Museum Tama Hills,35.638744,139.37975,Japan,accessible data
+JP-Fsk,,40.654722,140.485278,Japan,no public data
+JP-Fuj,,35.45454,138.76225,Japan,no public data
+JP-GRK,Gimje Rice Paddy,35.745328,126.852522,Japan,no public data
+JP-HEF,Hitsujigaoka Experimental Forest,42.989997,141.387475,Japan,no public data
+JP-Hac,,34.533333,133.933333,Japan,no public data
+JP-Hc1,Hachihama Experimental Farm: the International Rice Experiment,34.537892,133.926797,Japan,accessible data
+JP-Hc2,Hachihama Experimental Farm,34.537518,133.92755,Japan,accessible data
+JP-Hc3,Hachihama Experimental Farm: Double Crop,34.539673,133.91173,Japan,accessible data
+JP-Hit,,42.986836,141.385288,Japan,no public data
+JP-Hok,,42.694076,141.583128,Japan,no public data
+JP-Hrt,Hiratsuka Rice Paddy,35.362778,139.338056,Japan,accessible data
+JP-IZM,Oizumi Urban Park,34.563469,135.533483,Japan,no public data
+JP-KEW,Kiryu Experiment Watershed,34.963611,135.994444,Japan,no public data
+JP-KaL,Koshin Lake Kasumigaura,36.037778,140.404167,Japan,accessible data
+JP-KaP,Kasumigaura lotus paddy,36.08313,140.24033,Japan,accessible data
+JP-Kah,,33.137028,130.709528,Japan,no public data
+JP-Kar,,36.4,138.583333,Japan,no public data
+JP-Kgu,Kugahara urban residential area,35.582859,139.693543,Japan,accessible data
+JP-Khw,Kahoku Experiment watershed,33.13658,130.70834,Japan,accessible data
+JP-Km1,Kushiro Mire: Onnenai Fen,43.107511,144.330906,Japan,accessible data
+JP-Km2,Kushiro Mire: Akanuma Bog,43.1,144.35,Japan,accessible data
+JP-Kob,,31.966667,130.933333,Japan,no public data
+JP-Kwa,,35.870073,139.489599,Japan,no public data
+JP-Kwg,Kawagoe forest meteorology research site,35.8725,139.4869,Japan,accessible data
+JP-Kzw,Karuizawa,36.406788,138.57257,Japan,accessible data
+JP-MBF,Moshiri Birch Forest Site,44.38406,142.31862,Japan,accessible data
+JP-MMF,Moshiri Mixd Forest Site,44.321884,142.26152,Japan,accessible data
+JP-Mas,JP-Mas,36.053972,140.026917,Japan,no public data
+JP-Mra,Muramatsu agricultural field,37.690275,139.194429,Japan,accessible data
+JP-Mse,Mase rice paddy field,36.05393,140.02693,Japan,accessible data
+JP-NFT,National Institute of Fruit Tree Science,36.05132,140.099316,Japan,no public data
+JP-Nae,,36.891703,138.766823,Japan,no public data
+JP-Nap,Nunoike Agricultural Pond,34.77485,134.892442,Japan,accessible data
+JP-Nkm,Nishikoma Site,35.808064,137.833883,Japan,accessible data
+JP-Nks,"Nakashibetu Station, NLBC",43.54606,144.966545,Japan,no public data
+JP-NsC,NILGS Nasu Research Station Chemical Fertilizer Plot,36.915054,139.93684,Japan,accessible data
+JP-NsM,NILGS Nasu Research Station Manure Application Plot,36.91604,139.936,Japan,accessible data
+JP-Nsb,NIAES Soybean,36.024303,140.114975,Japan,accessible data
+JP-Nsu,,36.925743,139.967766,Japan,no public data
+JP-Nuf,Nagoya University Forest,35.152416,136.9719,Japan,accessible data
+JP-Om1,B11 building in Osaka Metropolitan University,34.547178,135.502861,Japan,accessible data
+JP-Om2,Farm field in Osaka Metropolitan University,34.542454,135.50822,Japan,accessible data
+JP-Ooz,,34.563469,135.533483,Japan,no public data
+JP-Ozm,Oizumi Urban Park,34.56347,135.53348,Japan,accessible data
+JP-SHD,"National Livestock Breeding Center, Niikappu Station",42.4,142.466667,Japan,no public data
+JP-SMF,Seto Mixed Forest Site,35.261528,137.07875,Japan,accessible data
+JP-Sac,Sakai City Office,34.573914,135.482889,Japan,accessible data
+JP-Sak,,34.573402,135.483013,Japan,no public data
+JP-Sb1,Sarobetsu Mire Moss,45.104702,141.68797,Japan,accessible data
+JP-Sb2,Sarobetsu Mire Sasa,45.10339,141.6808,Japan,accessible data
+JP-Shn,Shinshu University Experimental Forest Site,35.865753,137.93256,Japan,accessible data
+JP-Sim,,36.211361,139.947389,Japan,no public data
+JP-Spp,Sapporo forest meteorology research site,42.986843,141.38533,Japan,accessible data
+JP-Srk,Shirakami Beech Forest Site,40.565483,140.12779,Japan,accessible data
+JP-SwL,Suwa Lake Site,36.046572,138.108353,Japan,accessible data
+JP-Szn,Hokkaido University Shizunai Livestock Farm,42.407267,142.475696,Japan,no public data
+JP-TKC,Takayama evergreen coniferous forest site,36.139722,137.370833,Japan,no public data
+JP-TKY,Takayama deciduous broadleaf forest site,36.146167,137.423111,Japan,no public data
+JP-TOE,Tomakomai Experimental Forest,42.694076,141.583128,Japan,no public data
+JP-Ta2,Takayama evergreen coniferous forest site,36.140038,137.37071,Japan,accessible data
+JP-Tak,Takayama deciduous broadleaf forest site,36.146168,137.42311,Japan,accessible data
+JP-Tdf,Toyota Deciduous Forest,35.035889,137.185778,Japan,accessible data
+JP-Tef,CC-LaG Teshio Experimental Forest,45.05581,142.10712,Japan,accessible data
+JP-Tgf,"Terrestrial Environment Research Center, University of Tsukuba",36.11353,140.09488,Japan,accessible data
+JP-Tkb,Tsukuba Experimental Watershed,36.173378,140.17664,Japan,accessible data
+JP-Tmd,Tomakomai Flux Research Site Disturbed,42.735912,141.52315,Japan,accessible data
+JP-Tmk,Tomakomai Flux Research Site,42.739307,141.51483,Japan,accessible data
+JP-Toc,Tomakomai Crane site,42.70973,141.5659,Japan,accessible data
+JP-Tom,Tomakomai Experimental Forest,42.698906,141.571488,Japan,accessible data
+JP-Yms,Yamashiro forest meteorology research site,34.79028,135.84094,Japan,accessible data
+JP-Ynf,Yona-Field Tower Site,26.751,128.21266,Japan,accessible data
+JP-Yrp,Yawara Rice paddy,36.007667,140.030175,Japan,accessible data
+K04,Kubuqi forest plantation,40.538333,108.693611,China,no public data
+K05,Kubuqi shrubland,40.3808,108.5486,China,no public data
+KBY,Kobayashi,31.966667,130.933333,Japan,no public data
+KE-Aq1,Ausquest 1,-1.57781,37.067047,Kenya,accessible data
+KE-Aq2,Ausquest 2,-1.566199,37.100166,Kenya,accessible data
+KE-Chk,Choke,-3.6663,38.350184,Kenya,no public data
+KE-Kpt,Kapiti,-1.6141866,37.13311,Kenya,accessible data
+KE-Mdw,Maduwa,-0.001433,34.0228466,Kenya,no public data
+KE-Mkt,Maktau,-3.425859,38.140663,Kenya,accessible data
+KH-Kmp,Kampong Thom Lowland Dry Evergreen Forest,12.744579,105.47857,Cambodia,accessible data
+KMW,Kog-Ma Wateshed,18.8,98.9,Thailand,no public data
+KND,Kandistasari Research Site,1,101.266667,Indonesia,no public data
+KR-AdC,Anmyeondo Coniferous forest,36.50565,126.35909,South Korea,accessible data
+KR-CRK,Cheorwon Rice paddy,38.2013,127.2497,South Korea,accessible data
+KR-CmF,Cheongmicheon Farmland,37.1599,127.65365,South Korea,accessible data
+KR-GCK,Gwangreung Coniferous forest,37.748335,127.162223,South Korea,no public data
+KR-GDK,Gwangreung Deciduous forest,37.748889,127.149167,South Korea,no public data
+KR-GmP,Gimje Rice-barley double cropping Paddy Field,35.74502,126.85222,South Korea,accessible data
+KR-GmR,Gimje Rice Paddy,35.74862,126.86432,South Korea,accessible data
+KR-GmS,Gimje Soybean Field,35.75089,126.81378,South Korea,accessible data
+KR-HFK,,34.55388,126.57,South Korea,no public data
+KR-HPK,Haenam Paddy-field,34.47722,126.48105,South Korea,accessible data
+KR-Har,,37.546211,126.326981,South Korea,no public data
+KR-HcM,Hongcheon Mixed forest,37.61938,127.84571,South Korea,accessible data
+KR-Hnm,Haenam Farmland (HFK),34.5538,126.56992,South Korea,accessible data
+KR-JjM,Jeju Mixed forest,33.31798,126.56772,South Korea,accessible data
+KR-Kw1,Gwangneung Coniferous forest,37.74843,127.16261,South Korea,accessible data
+KR-Kw2,Gwangneung Deciduous forest,37.74869,127.14888,South Korea,accessible data
+KR-Nj1,Naju Rice Paddy 1,35.02753,126.82093,South Korea,accessible data
+KR-Nj2,Naju Rice Paddy 2,35.0269,126.8219,South Korea,accessible data
+KR-PcD,Pyeongchang Deciduous forest,37.48184,128.51604,South Korea,accessible data
+KR-ScC,Samcheok Coniferous forest,37.22141,129.29863,South Korea,accessible data
+KR-Seo,,37.93885,126.9547,South Korea,no public data
+KR-SmM,Seolmacheon Mixed forest,37.93894,126.95471,South Korea,accessible data
+KR-TBK,Taehwa Broadleaf forest,37.304167,127.313889,South Korea,no public data
+KR-TCK,Taehwa Conifer forest,37.3047222,127.317222,South Korea,no public data
+KR-TwB,Taehwa Broadleaf forest,37.30406,127.31395,South Korea,accessible data
+KR-TwC,Taehwa Coniferous forest,37.30493,127.31743,South Korea,accessible data
+KR-UAO,Uiseong Apple Orchard,36.41682,128.79904,South Korea,accessible data
+KR-WdE,Wando Evergreen broadleaf forest,34.35956,126.67779,South Korea,accessible data
+KST,Kushiro Mire Akanuma Tower,43.116667,144.366667,Japan,no public data
+MKH,Muka Head Station,5.468333,100.200278,Malaysia,no public data
+MKL,Mae Klong,14.589564,98.84388,Thailand,no public data
+ML-AgG,Agoufou G,15.34322,-1.48067,Mali,accessible data
+ML-AgS,Agoufou S,15.49961667,1.390083333,Mali,no public data
+ML-Bam,Bamba,17.09838,1.4011655,Mali,accessible data
+ML-Kem,Kelma,15.2875,-1.543056,Mali,accessible data
+MMP,Mae Moh plantation,18.422942,99.718037,Thailand,no public data
+MN-Hst,Hustai grassland,47.59293,105.85497,Mongolia,accessible data
+MN-Kbu,Kherlenbayan Ulaan,47.21397,108.737335,Mongolia,accessible data
+MN-Khr,,47.213972,108.737333,Mongolia,no public data
+MN-Knt,,48.351861,108.654333,Mongolia,no public data
+MN-Nkh,Nalaikh grassland,47.693592,107.48934,Mongolia,accessible data
+MN-Skt,Southern Khentei Taiga,48.351861,108.654333,Mongolia,accessible data
+MN-Udg,Udleg practice forest,48.25649,106.85116,Mongolia,accessible data
+MX-ASF,Alamos Mid-Secondary tropical dry forest,27.0046,-108.7795,Mexico,no public data
+MX-Aog,Alamos Old-Growth tropical dry forest,26.9968,-108.7892,Mexico,accessible data
+MX-BRN,Bernal,20.7168,-99.9413,Mexico,no public data
+MX-CHB,Churi-Buffelgrass savanna,28.7117,-110.5497,Mexico,no public data
+MX-CHN,Natural subtropical semi-arid shrubland,28.6982,-110.5392,Mexico,no public data
+MX-CLS,"Coastal Lagoon, Gulf of California",27.9541,-110.9726,Mexico,no public data
+MX-EMG,El Mogor,32.0298,-116.6045,Mexico,no public data
+MX-IIT,Instituto de Ingenieria y Tecnologia - UACJ,31.7434,-106.4316,Mexico,no public data
+MX-ISD,San Isidro,25.3004,-101.3924,Mexico,no public data
+MX-LPA,La Paz,24.1292,-110.438,Mexico,no public data
+MX-OAK,"Encino, North American monsoon oak savanna",29.9591,-110.4615,Mexico,no public data
+MX-PMm,Puerto Morelos mangrove,20.8462,-86.8992,Mexico,accessible data
+MX-RAY,"Rayon, monsoon subtropical shrubland",29.7446,-110.5306,Mexico,no public data
+MX-SGT,Sonoran short arid Mangrove,29.3408,-112.2796,Mexico,no public data
+MX-Tes,"Tesopaco, secondary tropical dry forest",27.8446,-109.2977,Mexico,accessible data
+MX-VQS,Vaquerías,21.7872,-101.607,Mexico,no public data
+MY-CMC,"Cermat Ceria, Betong",1.400444,111.398333,Malaysia,no public data
+MY-Cer,,1.400444,111.398333,Malaysia,no public data
+MY-LHP,Lambir Hills National Park,4.201007,114.03908,Malaysia,accessible data
+MY-Lam,,4.2,114.033333,Malaysia,no public data
+MY-MLM,Maludam National Park,1.482989,111.153374,Malaysia,no public data
+MY-Mud,,1.482989,111.153374,Malaysia,no public data
+MY-PSO,Pasoh Forest Reserve (PSO),2.973,102.3062,Malaysia,accessible data
+MY-Sbu,,2.186667,111.84325,Malaysia,no public data
+NBB,Naeba Beech Forest Research Site,36.891703,138.766823,Japan,no public data
+NE-WaD,Wankama Degraded Fallow,13.6463167,2.64301667,Niger,accessible data
+NE-WaF,Wankama Fallow,13.64758138,2.63368891,Niger,accessible data
+NE-WaM,Wankama Millet,13.644017,2.62984816,Niger,accessible data
+NL-Amd,Amsterdam,52.3665,4.8929,Netherlands,accessible data
+NL-Ca1,NL-Ca1,51.971,4.927,Netherlands,accessible data
+NL-Ca2,NL-Ca2,51.9536,4.90286,Netherlands,no public data
+NL-Dij,Dijkgraaf,51.99206111,5.645944444,Netherlands,accessible data
+NL-Haa,Haastrecht,52.0036111,4.80555556,Netherlands,accessible data
+NL-Hor,Horstermeer,52.24035,5.071301,Netherlands,accessible data
+NL-Hrw,Haarweg,51.972466,5.641228,Netherlands,accessible data
+NL-Lan,Langerak,51.9536018371582,4.90290021896362,Netherlands,accessible data
+NL-Lel,,52.5242382,5.55161594,Netherlands,no public data
+NL-Loo,NL-Loo,52.166447,5.74355,Netherlands,accessible data
+NL-Lut,Lutjewad,53.39892222,6.356027778,Netherlands,accessible data
+NL-Mol,Molenweg,51.65,4.63908333,Netherlands,accessible data
+NL-Re1,Reeuwijk 1,51.9,4.5,Netherlands,no public data
+NL-Re2,Reeuwijk 2,51.9,4.5,Netherlands,no public data
+NL-Vkp,Veenkampen,51.980934,5.618825,Netherlands,accessible data
+NL-Vre,Vredepeel,51.53166667,5.844111111,Netherlands,accessible data
+NL-Waa,,52.8315944,4.90912222,Netherlands,no public data
+NL-Wgn,,51.981,5.619,Netherlands,no public data
+NL-Zee,Zeewolde,52.33480278,5.372588889,Netherlands,accessible data
+NO-And,Andøya,69.14278,16.02222,Norway,accessible data
+NO-Fns,Finse,60.59384,7.5271025,Norway,accessible data
+NO-Hur,Hurdal,60.37163,11.07949,Norway,accessible data
+NO-Ikr,Iskoras,69.34,25.3,Norway,accessible data
+NSS,"National Institute of Livestock and Grassland Science,Nasu Research Station",36.925743,139.967766,Japan,no public data
+NZ-ADd,Ashley Dene dry,-43.64405,172.35465,New Zealand,accessible data
+NZ-ADn,,-43.65,172.35,New Zealand,no public data
+NZ-ADw,Ashley Dene wet,-43.64935,172.34952,New Zealand,accessible data
+NZ-BFm,Beacon Farm IFR,-43.593528,171.929611,New Zealand,accessible data
+NZ-BFu,Beacon Farm UUW,-43.591833,171.926833,New Zealand,accessible data
+NZ-Cla,Claireview Farm,-43.78628,171.59558,New Zealand,accessible data
+NZ-Kop,Kopuatai Bog,-37.387875,175.55389,New Zealand,accessible data
+NZ-Lau,Lauder,-45.038904,169.681109,New Zealand,accessible data
+NZ-Oxf,Oxford,-43.2609,172.21588,New Zealand,accessible data
+NZ-ScF,Scott Farm,-37.46,175.22,New Zealand,accessible data
+NZ-Sco,Scott Farm,-37.46,175.22,New Zealand,no public data
+NZ-Trl,,-37.77,175.5,New Zealand,no public data
+PA-BAS,Barro Colorado Island,9.1565,-79.8482,Panama,accessible data
+PA-SPn,Sardinilla Plantation,9.318139833,-79.6346,Panama,accessible data
+PA-SPs,Sardinilla-Pasture,9.313779833,-79.63142983,Panama,accessible data
+PDF,Palangkaraya drained forest,-2.345,114.0364,Indonesia,no public data
+PE-AMG,Los Amigos,-12.5598,-70.1018,Peru,no public data
+PE-BRE,El Breo,-7.1026,-77.1619,Peru,no public data
+PE-PAN,Panguana,-9.6237,-74.9315,Peru,no public data
+PE-QFR,Quistococha Forest Reserve,-3.8344,-73.319,Peru,accessible data
+PE-TNR,Tambopata,-12.8314,-69.2836,Peru,no public data
+PH-IRI,,14.14119,14.14119,Philippines,no public data
+PH-RIf,Philippines Rice Institute flooded,14.14119,121.26526,Philippines,accessible data
+PH-RIn,Philippines Rice Institute not-flooded,14.14503,121.26094,Philippines,accessible data
+PL-Ans,Annoslaw,51.750319,20.41762,Poland,no public data
+PL-Bdg,,53,17.96,Poland,no public data
+PL-Brd,Brody,52.434181,16.299523,Poland,accessible data
+PL-Kpt,Kopytkowo,53.591854,22.892385,Poland,no public data
+PL-Krk,Krakow,50.067021,19.912977,Poland,no public data
+PL-Lz1,Lodz1,51.762514,19.445326,Poland,no public data
+PL-Lz2,Lodz2,51.773307,19.480993,Poland,no public data
+PL-Lz3,Lodz3,51.800143,19.411944,Poland,no public data
+PL-Pol,,48.6333333,19.5333333,Poland,no public data
+PL-Tcz,Tuczno,53.19295,16.09748333,Poland,accessible data
+PL-Wet,Rzecin (PolWet),52.7623,16.3095,Poland,accessible data
+PL-Wlw,,52.84,18.31,Poland,no public data
+PR-XGU,NEON Guanica Forest (GUAN),17.9696,-66.8687,Puerto Rico,accessible data
+PR-XLA,NEON Lajas Experimental Station (LAJA),18.0212,-67.0769,Puerto Rico,accessible data
+PT-Cor,Coruche,39.13841389,-8.33268889,Portugal,accessible data
+PT-Esp,Espirra,38.6394004821777,-8.60179996490478,Portugal,accessible data
+PT-LdT,Leziria do Tejo,38.82248,-8.81729,Portugal,no public data
+PT-Mi1,Mitra II (Evora),38.54063889,-8.000055556,Portugal,accessible data
+PT-Mi2,Mitra IV (Tojal),38.4765014648437,-8.02455043792724,Portugal,accessible data
+PT-PGx,Paul de Gouxa,39.233625,-8.587317,Portugal,no public data
+QYZ,Qianyanzhou Site,26.733959,115.066338,China,no public data
+RFB,Rubber Flux Bueng Kan,18.239134,103.320122,Thailand,no public data
+RFC,Rubber Flux Chachoengsao,13.665556,101.441389,Thailand,no public data
+RU-Ch2,Cherski reference,68.61689,161.35089,Russia,accessible data
+RU-Che,Cherski,68.61304,161.34143,Russia,accessible data
+RU-Cok,Chokurdakh,70.82913889,147.4942778,Russia,accessible data
+RU-Ege,Elgeeii forest station,60.015514,133.824,Russia,accessible data
+RU-Fy2,Fyodorovskoye dry spruce stand,56.4476,32.90188,Russia,accessible data
+RU-Fy3,Fyodorovskoye Clear-cut,56.4435,33.0478,Russia,accessible data
+RU-Fy4,Fyodorovskoye bog,56.4727,33.0413,Russia,accessible data
+RU-Fyo,Fyodorovskoye,56.46153,32.922085,Russia,accessible data
+RU-Ha1,Hakasia steppe,54.72517,90.00215,Russia,accessible data
+RU-Ha2,Hakasia 5yr,54.77301,89.95664,Russia,accessible data
+RU-Ha3,Hakasia 10 yr,54.70455,90.07785,Russia,accessible data
+RU-Krg,Kurungnakh,72.298333,126.173333,Russia,no public data
+RU-KsC,,57.25146,65.96931,Russia,no public data
+RU-KsG,,57.2528,65.99321,Russia,no public data
+RU-Ndm,,65.185,72.525,Russia,no public data
+RU-NeB,Neleger Burnt Forest,62.325935,129.48734,Russia,accessible data
+RU-NeC,Neleger Cutover,62.314842,129.50008,Russia,accessible data
+RU-NeF,Neleger larch forest,62.315617,129.49997,Russia,accessible data
+RU-Sam,Samoylov,72.3738,126.4958,Russia,accessible data
+RU-Sk2,Yakutsk Spasskaya Pad Pine,62.241356,129.65047,Russia,accessible data
+RU-SkP,Yakutsk Spasskaya Pad larch,62.25471,129.61855,Russia,accessible data
+RU-Tks,Tiksi,71.594267,128.887817,Russia,accessible data
+RU-Tur,Tura,64.208885,100.463554,Russia,accessible data
+RU-UPo,Ust Pojeg,61.93412778,50.22690278,Russia,no public data
+RU-USk,Ulakhan Sykkhan Alas,62.150995,130.527517,Russia,accessible data
+RU-Uts,,57.154907,65.343002,Russia,no public data
+RU-Vrk,Seida/Vorkuta,67.0546798706055,62.9404678344727,Russia,accessible data
+RU-YLF,Yakutsk Spasskaya Pad larch,62.255,129.168,Russia,no public data
+RU-YPF,Yakutsk Pine,62.2414,129.6506,Russia,no public data
+RU-Ypn,,62.2414,129.6506,Russia,no public data
+RU-Zbo,,60.75,89.3833,Russia,no public data
+RU-Zfw,,60.75,89.3833,Russia,no public data
+RU-Zot,Zotino,60.8008003234863,89.3507995605468,Russia,accessible data
+SAP,Sapporo forest meteorology research site,42.986836,141.385288,Japan,no public data
+SBW,Sibu Station,2.186667,111.84325,Malaysia,no public data
+SD-Dem,Demokeya,13.2829,30.4783,Sudan,accessible data
+SE-Abi,SE-Abi,68.36239,18.79475,Sweden,no public data
+SE-Asa,,57.1722611,14.8001,Sweden,no public data
+SE-Bmr,Bullmark,64.022704,20.569151,Sweden,no public data
+SE-Deg,SE-Deg,64.18203,19.55654,Sweden,accessible data
+SE-Ers,Erssjön,58.37112,12.16125,Sweden,no public data
+SE-Faj,Fäjemyr,56.26546944,13.55351389,Sweden,accessible data
+SE-Fla,Flakaliden,64.11277777,19.45694444,Sweden,accessible data
+SE-Fos,Följesjön,58.37577,12.15399,Sweden,no public data
+SE-HfM,Halsingfors mire,64.159555,19.551496,Sweden,accessible data
+SE-Hmr,Halmyran,64.159996,19.56924,Sweden,accessible data
+SE-Htm,Hyltemossa,56.09763,13.41897,Sweden,accessible data
+SE-Kno,Knottåsen,60.99825,16.21727778,Sweden,accessible data
+SE-Lnn,Lanna,58.34063,13.10177,Sweden,accessible data
+SE-Myc,Mycklemossen,58.36503,12.1694,Sweden,accessible data
+SE-Nor,Norunda,60.0865,17.479504,Sweden,accessible data
+SE-Oes,Oestergarnsholm,57.4301,18.98415,Sweden,accessible data
+SE-Rmp,Rumperod,56.333333,14.1125,Sweden,no public data
+SE-Ros,Rosinedal-3,64.16522,19.79074,Sweden,accessible data
+SE-Sgr,Skogaryd,58.36387,12.14983,Sweden,no public data
+SE-Sk1,Skyttorp 1,60.125,17.91805556,Sweden,accessible data
+SE-Sk2,Skyttorp 2,60.12966667,17.84005556,Sweden,accessible data
+SE-Srj,Storjarn,64.174977,19.56381,Sweden,no public data
+SE-St1,Stordalen grassland,68.35415,19.050333,Sweden,accessible data
+SE-St2,,68.3542444,19.0471444,Sweden,no public data
+SE-Sto,Stordalen Palsa Bog (ICOS),68.35594,19.045208,Sweden,accessible data
+SE-Svb,Svartberget,64.25611,19.7745,Sweden,accessible data
+SE-TrC,Trollberget Clearcut,64.177666,19.862514,Sweden,no public data
+SE-Trb,Trollberget,64.180916,19.837284,Sweden,accessible data
+SG-TKr,Telok Kurau,1.314294,103.911197,Singapore,no public data
+SJ-Adv,Adventdalen,78.186,15.923,Svalbard and Jan Mayen,accessible data
+SJ-Blv,Bayelva Spitsbergen,78.921630859375,11.8310852050781,Svalbard and Jan Mayen,accessible data
+SJP,Simotsuma Japanese pear orchard,36.211361,139.947389,Japan,no public data
+SK-Ta1,Tatra Jamy,49.15833333,20.26111111,Slovakia,accessible data
+SK-Ta2,Tatra Vysne Hagy,49.12638889,20.10777778,Slovakia,accessible data
+SK-Tat,Tatra Danielov Dom,49.1207778,20.1635,Slovakia,accessible data
+SKR,Sakaerat,14.492361,101.916306,Thailand,no public data
+SMK,KoFlux Seolmacheon site,37.93885,126.9547,South Korea,no public data
+SN-Dhr,Dahra,15.40256,-15.43214,Senegal,accessible data
+SN-Nkr,Niakhar,14.49581,-16.45357,Senegal,accessible data
+SN-Rga,Ragola,14.494314,-16.456285,Senegal,no public data
+STK,King Sejong Station site,-62.232115,-58.804321,Antarctica,no public data
+TH-Bue,,18.239134,103.320122,Thailand,no public data
+TH-Cgs,,13.665556,101.441389,Thailand,no public data
+TH-Kms,Kamphaeng Saen Rice Paddy,14.009167,99.984167,Thailand,accessible data
+TH-Kog,Kog-Ma Watershed,18.81267,98.90225,Thailand,accessible data
+TH-Mae,Mae Moh plantation,18.42264,99.72025,Thailand,accessible data
+TH-Mix,,16.93806,99.429889,Thailand,no public data
+TH-Moh,,18.422942,99.718037,Thailand,no public data
+TH-Rtc,,13.583333,99.5,Thailand,no public data
+TH-Sak,,14.492361,101.916306,Thailand,no public data
+TSE,CC-LaG Teshio Experimental Forest,45.0558,142.1073,Japan,no public data
+TSX,Typical Steppe _ Xilingol Temperate Grassland Ecosystem,44.134167,116.328611,China,no public data
+TW-Chn,,24.5833,121.4,Taiwan,no public data
+TW-GDP,Guandu Nature Park Flux Station,25.116667,121.466666,Taiwan,no public data
+TW-Hui,,24.090974,121.029874,Taiwan,no public data
+TW-LHC,The Lien-Hua-Chih Hydrometeorological Study Site,23.930967,120.89415,Taiwan,no public data
+TW-Tar,TW-Tar,24.0312,120.688,Taiwan,no public data
+TWH,Taiwan Huisun Forest Station,24.090974,121.029874,Taiwan,no public data
+UA-Pet,Petrodolinskoe,46.45614,30.33609,Ukraine,accessible data
+UG-Jin,Jinja,0.4,33.18333333,Uganda,accessible data
+UK-AMo,Auchencorth Moss,55.792545,-3.2436917,United Kingdom,accessible data
+UK-Ags,Anglesey,53.3097,-4.30044,United Kingdom,accessible data
+UK-Arn,Arnol,58.322834,-6.600454,United Kingdom,no public data
+UK-BBB,Bishop's Burton Bioenergy,53.86104,-0.4909216,United Kingdom,no public data
+UK-BBC,Bishop's Burton Cropland,53.86088,-0.4865083,United Kingdom,no public data
+UK-Bam,Balmoral,56.93,-3.16,United Kingdom,no public data
+UK-BnB,Ballynahone Bog,54.82326,-6.66984,United Kingdom,accessible data
+UK-BtM,Brattleby Miscanthus,53.321571,-0.584904,United Kingdom,no public data
+UK-BtW,Brattleby Willow SRC,53.319387,-0.584232,United Kingdom,no public data
+UK-CCr,Cors Caron,52.2542,-3.93357,United Kingdom,accessible data
+UK-CLs,Cross Lochs,58.370674,-3.9639542,United Kingdom,no public data
+UK-Cst,Cockshutts,53.84995,-2.773793,United Kingdom,no public data
+UK-Cvn,Coveney,52.43339,0.162177,United Kingdom,accessible data
+UK-DkF,Dyke-FIRE,58.431141,-3.9702661,United Kingdom,no public data
+UK-Dke,Dyke,58.427264,-3.968809,United Kingdom,no public data
+UK-EBu,Easter Bush,55.866,-3.205777778,United Kingdom,accessible data
+UK-EHd,East Hendred Control,51.583199,-1.322469,United Kingdom,no public data
+UK-ESa,East Saltoun,55.9069444,-2.85861111,United Kingdom,accessible data
+UK-Ech,Elchies,57.505657,-3.3087757,United Kingdom,no public data
+UK-GaB,Garry Bog,55.10994,-6.529928,United Kingdom,accessible data
+UK-Gnn,Glenullin,54.96185,-6.760763,United Kingdom,accessible data
+UK-Gri,Griffin,56.6072222,-3.79805556,United Kingdom,accessible data
+UK-Gst,Girlsta,60.230296,-1.240111,United Kingdom,no public data
+UK-GtF,Great Fen,52.470689,-0.192668,United Kingdom,no public data
+UK-Gwr,Glenwherry,54.85464,-5.988278,United Kingdom,accessible data
+UK-Ham,Hampshire,51.153533,-0.8583,United Kingdom,accessible data
+UK-Har,Harwood,55.21272222,-2.037527777,United Kingdom,accessible data
+UK-Her,Hertfordshire,51.7837982177734,-0.476080000400543,United Kingdom,accessible data
+UK-HgF,High Fen,52.552177,0.515057,United Kingdom,accessible data
+UK-HpF,Hope Farm,52.24809,-0.0498267,United Kingdom,accessible data
+UK-LBT,London_BT,51.5215,-0.1389,United Kingdom,accessible data
+UK-Lns,Lonielist,58.391024,-3.765051,United Kingdom,no public data
+UK-MrH,Moor House,54.695035,-2.388234,United Kingdom,no public data
+UK-Myg,Myerscough,53.854618,-2.779574,United Kingdom,no public data
+UK-PL1,,51.5332985,-1.48333,United Kingdom,no public data
+UK-PL2,,51.4333,-1.23333,United Kingdom,no public data
+UK-PL3,Pang/Lambourne forest,51.45,-1.266666667,United Kingdom,accessible data
+UK-Png,,52.422332,-4.068402,United Kingdom,no public data
+UK-Po1,Pollybell GGR1,53.45704,-0.9139667,United Kingdom,no public data
+UK-Po2,Pollybell GGR2,53.45905,-0.9082767,United Kingdom,no public data
+UK-Po3,Pollybell GGR3,53.45659,-0.910275,United Kingdom,no public data
+UK-Pob,Pollybell,53.430831,-0.922198,United Kingdom,no public data
+UK-Rdm,Redmere 2,52.442948,0.419533,United Kingdom,no public data
+UK-RkM,Racks Moss,55.039074,-3.516436,United Kingdom,no public data
+UK-Rsh,Riseholme,53.25981,-0.5257917,United Kingdom,no public data
+UK-Stm,Stretham,52.331415,0.224473,United Kingdom,no public data
+UK-Swt,Sawtry,52.435915,-0.259556,United Kingdom,no public data
+UK-Tad,Tadham Moor,51.2070999145507,-2.82863998413085,United Kingdom,accessible data
+UK-WMs,West Moss-side,56.162774,-4.1757657,United Kingdom,no public data
+UK-WdC,Waddesdon Control,51.82715,-0.948449,United Kingdom,no public data
+UK-Wdd,Waddesdon,51.830757,-0.950881,United Kingdom,no public data
+UK-Wot,Woodwalton,52.459926,-0.184811,United Kingdom,no public data
+UK-WsL,West Lochhills,57.582244,-1.9821112,United Kingdom,no public data
+UOK,Ujseong Apple Orchard,36.416801,128.799088,South Korea,no public data
+US-A03,ARM-AMF3-Oliktok,70.4953,-149.8823,USA,accessible data
+US-A10,ARM-NSA-Barrow,71.3242,-156.6149,USA,accessible data
+US-A12,ARM-SGP-Pawhuska,36.841,-96.427,USA,no public data
+US-A14,ARM-SGP-Lamont,36.607,-97.488,USA,no public data
+US-A20,ARM-BNF-Courtland,34.6538,-87.2927,USA,no public data
+US-A30,ARM-BNF-Falkville,34.3848,-86.9279,USA,no public data
+US-A31,ARM-SGP-Anthony,37.1509,-98.362,USA,no public data
+US-A32,ARM-SGP Medford hay pasture,36.8193,-97.8198,USA,accessible data
+US-A33,ARM-SGP-Newkirk,36.9255,-97.0817,USA,no public data
+US-A37,ARM-SGP-Waukomis,36.3106,-97.928,USA,accessible data
+US-A38,ARM-SGP-Omega,35.8797,-98.1728,USA,no public data
+US-A39,ARM-SGP-Morrison,36.3776,-96.069,USA,accessible data
+US-A40,ARM-BNF-Double Springs,34.1788,-87.4539,USA,no public data
+US-A41,ARM-SGP-Peckham,36.8796,-97.0864,USA,no public data
+US-A74,ARM SGP milo field,36.8085,-97.5489,USA,accessible data
+US-AAG,Arkansas Grassland,33.1105,-91.6282,USA,no public data
+US-ABA,Archbold grazed seminative pasture,27.1301,-81.2011,USA,accessible data
+US-ABB,Archbold ungrazed seminative pasture,27.1346,-81.2031,USA,accessible data
+US-ABC,Archbold grazed improved pasture,27.1633,-81.1873,USA,accessible data
+US-ABD,Archbold ungrazed improved pasture,27.1699,-81.2152,USA,accessible data
+US-ABE,Archbold Ungrazed Wetland,27.1656,-81.2161,USA,accessible data
+US-AC2,ARM-CRG-Rural,39.422,-77.21,USA,no public data
+US-AC3,ARM-CRG-Bay,38.838,-76.37,USA,no public data
+US-AC5,ARM-CRG-UrbanNW,39.3105,-76.6238,USA,no public data
+US-AC6,ARM-CRG-UrbanSE,39.3105,-76.6238,USA,no public data
+US-ACT,Acton Lake Flux Tower Site,39.582,-84.755,USA,accessible data
+US-ADR,Amargosa Desert Research Site (ADRS),36.7653,-116.6933,USA,accessible data
+US-AF1,MPG - Apricot Lane Farms,34.3108,-118.9244,USA,no public data
+US-ALQ,Allequash Creek Site,46.0308,-89.6067,USA,accessible data
+US-AN1,Anaktuvuk River Severe Burn,68.99,-150.28,USA,accessible data
+US-AN2,Anaktuvuk River Moderate Burn,68.95,-150.21,USA,accessible data
+US-AN3,Anaktuvuk River Unburned,68.93,-150.27,USA,accessible data
+US-AOL,Low Density Apple Orchard,43.2513,-85.7648,USA,no public data
+US-AR1,ARM USDA UNL OSU Woodward Switchgrass 1,36.4267,-99.42,USA,accessible data
+US-AR2,ARM USDA UNL OSU Woodward Switchgrass 2,36.6358,-99.5975,USA,accessible data
+US-ARM,ARM Southern Great Plains site- Lamont,36.6058,-97.4888,USA,accessible data
+US-ARb,ARM Southern Great Plains burn site- Lamont,35.5497,-98.0402,USA,accessible data
+US-ARc,ARM Southern Great Plains control site- Lamont,35.5465,-98.04,USA,accessible data
+US-ASH,USSL San Joaquin Valley Almond High Salinity,36.1697,-120.201,USA,accessible data
+US-ASL,USSL San Joaquin Valley Almond Low Salinity,36.9466,-120.1024,USA,accessible data
+US-ASM,USSL San Joaquin Valley Almond Medium Salinity,36.1777,-120.2026,USA,accessible data
+US-ATQ,Atqasuk,70.4696,-157.4089,USA,accessible data
+US-AUD,Audubon Research Ranch,31.5907,-110.5104,USA,accessible data
+US-AV1,Arva AV1,34.4024,-91.6843,USA,no public data
+US-AV2,Arva AV2,34.423,-91.6835,USA,no public data
+US-AV3,Arva AV3,34.4158,-91.6795,USA,no public data
+US-AV4,Arva AV4,34.4162,-91.6734,USA,no public data
+US-AV5,Arva AV5,34.4233,-91.6832,USA,no public data
+US-Akn,Savannah River Site,33.3825,-81.5653,USA,accessible data
+US-BCM,Blue Cypress Marsh,27.6953,-80.7114,USA,no public data
+US-BD4,Burdette Farm Rice Field - 4N,35.8139,-89.9862,USA,no public data
+US-BD5,Burdette Farm Rice Field - Seagraves South,35.8105,-90.0194,USA,no public data
+US-BD6,Burdette Farm Rice - Seagraves North,35.814,-90.0194,USA,no public data
+US-BDA,Burdette Farm Rice Field - AWD,35.8089,-90.0327,USA,no public data
+US-BDC,Burdette Farm Rice Field - conventional,35.8089,-90.0284,USA,no public data
+US-BEO,Barrow Environmental Observatory (BEO) tower,71.281,-156.6123,USA,no public data
+US-BES,Barrow-Bes (Biocomplexity Experiment South tower),71.2809,-156.5965,USA,no public data
+US-BFS,Robert J. Bernard Biological Field Station,34.1131,-117.7118,USA,no public data
+US-BGC,Big Chico Creek,39.8125,-121.8135,USA,no public data
+US-BKG,Brookings,44.3453,-96.8362,USA,no public data
+US-BLK,Black Hills,44.158,-103.65,USA,no public data
+US-BLO,Blodgett Forest,38.8953,-120.6328,USA,accessible data
+US-BMM,Bangtail Mountain Meadow,45.783,-110.7776,USA,accessible data
+US-BN1,"Bonanza Creek, 1920 Burn site near Delta Junction",63.9198,-145.3782,USA,no public data
+US-BN2,"Bonanza Creek, 1987 Burn site near Delta Junction",63.9198,-145.3782,USA,no public data
+US-BN3,"Bonanza Creek, 1999 Burn site near Delta Junction",63.9227,-145.7442,USA,no public data
+US-BNF,ARM Bankhead National Forest Site,34.3437,-87.3504,USA,no public data
+US-BO1,Bondville,40.0062,-88.2904,USA,accessible data
+US-BO2,Bondville (companion site),40.009,-88.29,USA,accessible data
+US-BR1,Brooks Field Site 10- Ames,41.9749,-93.6906,USA,no public data
+US-BR2,Brooks Field Site 1011- Ames,41.9757,-93.6925,USA,no public data
+US-BR3,Brooks Field Site 11- Ames,41.9747,-93.6936,USA,no public data
+US-BRG,Bayles Road Grassland Tower,39.2167,-86.5406,USA,accessible data
+US-BRW,US-Brw,71.3225,-156.6092,USA,no public data
+US-BSG,Burns Sagebrush,43.4712,-119.6909,USA,accessible data
+US-BSM,Barnstable Great Marsh,41.7297,-70.3644,USA,no public data
+US-BWA,INFLUX - NIST Turfgrass Site,39.1389,-77.2175,USA,accessible data
+US-BWB,INFLUX - Montgomery County pasture site,39.1955,-77.4509,USA,accessible data
+US-BWE,Clifton Park Turfgrass,39.317,-76.587,USA,no public data
+US-BZB,Bonanza Creek Thermokarst Bog,64.6955,-148.3208,USA,accessible data
+US-BZF,Bonanza Creek Rich Fen,64.7013,-148.3121,USA,accessible data
+US-BZL,Goldstream Valley Thermokarst Lake,64.9194,-147.8222,USA,no public data
+US-BZS,Bonanza Creek Black Spruce,64.6963,-148.3235,USA,accessible data
+US-BZo,Bonanza Creek Old Thermokarst Bog,64.6936,-148.33,USA,accessible data
+US-Bar,Bartlett Experimental Forest,44.0646,-71.2881,USA,accessible data
+US-Bi1,Bouldin Island Alfalfa,38.0992,-121.4993,USA,accessible data
+US-Bi2,Bouldin Island corn,38.1091,-121.5351,USA,accessible data
+US-CAK,Council Alaska Tundra,64.8618,-163.7002,USA,accessible data
+US-CAV,Canaan Valley,39.0633,-79.4208,USA,no public data
+US-CC1,Coloma Corn 1,44.0732,-89.6787,USA,accessible data
+US-CC2,Coloma Corn 2,44.1039,-89.6196,USA,accessible data
+US-CF1,CAF-LTAR Cook East,46.7815,-117.0821,USA,accessible data
+US-CF2,CAF-LTAR Cook West,46.784,-117.0908,USA,accessible data
+US-CF3,CAF-LTAR Boyd North,46.7551,-117.1261,USA,accessible data
+US-CF4,CAF-LTAR Boyd South,46.7518,-117.1285,USA,accessible data
+US-CGG,Concord Grazed Grassland,37.938,-121.9761,USA,accessible data
+US-CLF,Cole Farm,40.6366,-77.9424,USA,accessible data
+US-CLN,Coles Farm North,42.4886,-93.5227,USA,no public data
+US-CLS,Coles Farm South,42.4826,-93.5249,USA,no public data
+US-CMW,Charleston Mesquite Woodland,31.6637,-110.1777,USA,accessible data
+US-CN1,Coleman Cattle Farm,38.7466,-94.3967,USA,no public data
+US-CN2,Parrot Farm,38.7554,-94.3963,USA,no public data
+US-CPF,Cameron Peak,40.5855,-105.8696,USA,accessible data
+US-CPK,Chimney Park,41.068,-106.1187,USA,accessible data
+US-CRE,Clark Rice East,35.7635,-90.773,USA,no public data
+US-CRK,Davy Crockett National Forest,31.4629,-95.3415,USA,accessible data
+US-CRT,Curtice Walter-Berger cropland,41.6285,-83.3471,USA,accessible data
+US-CRW,Clark Rice West,35.7635,-90.773,USA,no public data
+US-CS2,Tri county school Pine Forest,44.1467,-89.5002,USA,accessible data
+US-CS3,Central Sands Irrigated Agricultural Field,44.1394,-89.5727,USA,accessible data
+US-CS4,Central Sands Irrigated Agricultural Field,44.1597,-89.5475,USA,accessible data
+US-CS5,Central Sands Irrigated Agricultural Field,44.1095,-89.5377,USA,accessible data
+US-CS7,Central Sands Forest,44.4375,-89.5443,USA,no public data
+US-CS8,Central Sands Irrigated Agricultural Field,44.4338,-89.5364,USA,accessible data
+US-CTN,Cottonwood,43.95,-101.8466,USA,no public data
+US-CU1,UIC Plant Research Laboratory Chicago,41.8694,-87.6459,USA,accessible data
+US-CU2,CSU Williams Science Center,41.7187,-87.6108,USA,no public data
+US-CU3,Bernard Brommel Hall,41.9805,-87.7166,USA,no public data
+US-CU4,Argonne Testbed for Multiscale Observational Science (ATMOS),41.7015,-87.9953,USA,accessible data
+US-CWG,Coweeta Grassland,34.9682,-83.3951,USA,no public data
+US-CX1,"Central Plains Experimental Range 1, Nunn, Colorado",40.833,-104.76,USA,no public data
+US-CX2,"Central Plains Experimental Range 2, Nunn, Colorado",40.8402,-104.7672,USA,no public data
+US-CZ1,"Sierra Critical Zone, Sierra Transect, Oak/Pine Woodland, San Joaquin Experimental Range",37.1088,-119.7313,USA,no public data
+US-CZ2,"Sierra Critical Zone, Sierra Transect, Ponderosa Pine Forest, Soaproot Saddle",37.0311,-119.2566,USA,no public data
+US-CZ3,"Sierra Critical Zone, Sierra Transect, Sierran Mixed Conifer, P301",37.0674,-119.1951,USA,no public data
+US-CZ4,"Sierra Critical Zone, Sierra Transect, Subalpine Forest, Shorthair",37.0675,-118.9867,USA,no public data
+US-CdM,Cedar Mesa,37.5241,-109.7471,USA,accessible data
+US-Ced,Cedar Bridge,39.8379,-74.3791,USA,accessible data
+US-ChR,Chestnut Ridge,35.9311,-84.3324,USA,accessible data
+US-Cms,Central Marsh,71.3202,-156.6223,USA,accessible data
+US-Cop,Corral Pocket,38.09,-109.39,USA,accessible data
+US-Cst,Crossett Experimental Forest,33.0442,-91.9204,USA,accessible data
+US-Cwt,Coweeta,35.0592,-83.4275,USA,accessible data
+US-DBK,Berkeley Way West,37.8736,-122.2684,USA,accessible data
+US-DCS,Dwarf Cypress Swamp,25.7626,-80.9078,USA,no public data
+US-DEA,California UC ANR Desert Research and Extension Center Alfalfa,32.8136,-115.4423,USA,no public data
+US-DEU,California UC ANR Desert Research and Extension Center Urban Farm Tower,32.8056,-115.4456,USA,no public data
+US-DFC,"US Dairy Forage Research Center, Prairie du Sac",43.3448,-89.7117,USA,accessible data
+US-DFK,Dairy Forage Research Center - Kernza,43.3453,-89.7154,USA,accessible data
+US-DIA,Diablo,37.6773,-121.5296,USA,accessible data
+US-DPP,Disney Wilderness Preserve Pine Flatwoods,28.1046,-81.419,USA,no public data
+US-DPW,Disney Wilderness Preserve Wetland,28.0521,-81.4361,USA,accessible data
+US-DS1,Staten Corn 1,38.1335,-121.539,USA,accessible data
+US-DS2,Staten Corn 2,38.1375,-121.514,USA,accessible data
+US-DS3,Staten Rice 1,38.1235,-121.549,USA,accessible data
+US-DUF,Denver Urban Field Station,40.5678,-105.0809,USA,accessible data
+US-Dix,Fort Dix,39.9712,-74.4346,USA,accessible data
+US-Dk1,Duke Forest-open field,35.9712,-79.0934,USA,accessible data
+US-Dk2,Duke Forest-hardwoods,35.9736,-79.1004,USA,accessible data
+US-Dk3,Duke Forest - loblolly pine,35.9782,-79.0942,USA,accessible data
+US-Dmg,Dutch Slough Marsh Gilbert Tract,38.0015,-121.6691,USA,accessible data
+US-E32,ARM-SGP-Medford,36.819,-97.8199,USA,no public data
+US-EA4,EAA Field Research Park Woodland,29.6633,-98.3816,USA,accessible data
+US-EA5,Uvalde Ranch Mesquite Woodland,29.3584,-99.9576,USA,accessible data
+US-EA6,Camp Wood Shield Ranch Oak Savannah,29.6561,-99.9588,USA,accessible data
+US-EDN,Eden Landing Ecological Reserve,37.6156,-122.114,USA,accessible data
+US-EKH,Elkhorn Slough Hester Marsh,36.8094,-121.7523,USA,accessible data
+US-EKN,Elkhorn Slough North Marsh,36.8357,-121.7328,USA,accessible data
+US-EKP,Elkhorn Slough Porter Marsh,36.8558,-121.7488,USA,accessible data
+US-EKY,Elkhorn Slough Yampah Marsh,36.8105,-121.7487,USA,no public data
+US-EML,"Eight Mile Lake Permafrost thaw gradient, Healy Alaska.",63.8784,-149.2536,USA,accessible data
+US-EPM,Edwards Plateau Martin,30.8167,-99.8619,USA,no public data
+US-Elm,Everglades (long hydroperiod marsh),25.5519,-80.7826,USA,accessible data
+US-Esm,Everglades (short hydroperiod marsh),25.4379,-80.5946,USA,accessible data
+US-EvM,Everglades Saltwater intrusion marsh,25.3539,-80.381,USA,accessible data
+US-FBE,Bob Allen Key LTER East,25.0266,-80.6814,USA,no public data
+US-FO2,Flux Observations of Carbon from an Airborne Laboratory (FOCAL) Campaign Site 2,70.0229,-148.6598,USA,accessible data
+US-FPE,Fort Peck,48.3077,-105.1019,USA,no public data
+US-FR1,Freeman Ranch- Grassland,29.93,-98.01,USA,no public data
+US-FR2,Freeman Ranch- Mesquite Juniper,29.9495,-97.9962,USA,no public data
+US-FR3,Freeman Ranch- Woodland,29.94,-97.99,USA,no public data
+US-Fcr,Cascaden Ridge Fire Scar,65.3968,-148.9348,USA,accessible data
+US-Fmf,Flagstaff - Managed Forest,35.1426,-111.7273,USA,accessible data
+US-Fo1,Flux Observations of Carbon from an Airborne Laboratory (FOCAL) Campaign Site 1,70.085,-148.5671,USA,accessible data
+US-Fuf,Flagstaff - Unmanaged Forest,35.089,-111.762,USA,accessible data
+US-Fwf,Flagstaff - Wildfire,35.4454,-111.7718,USA,accessible data
+US-GBT,GLEES Brooklyn Tower,41.3658,-106.2397,USA,accessible data
+US-GCE,Georgia Coastal Ecosystems LTER Flux Tower,31.4441,-81.2835,USA,no public data
+US-GL1,Stannard Rock,47.1835,-87.2251,USA,accessible data
+US-GL2,Granite Island,46.7167,-87.4,USA,accessible data
+US-GLE,GLEES,41.3665,-106.2399,USA,accessible data
+US-GMF,Great Mountain Forest,41.9667,-73.2333,USA,no public data
+US-GOO,Goodwin Creek,34.2547,-89.8735,USA,accessible data
+US-GR8,Greenfield Rice Northeast 18,35.6647,-90.7153,USA,no public data
+US-GR9,Greenfield Rice Northwest 19,35.6648,-90.7198,USA,no public data
+US-GZ1,"Genesee, ID On-farm site Zone 1",46.5008,-116.8068,USA,no public data
+US-GZ2,"Genesee, ID On-farm site Zone 2",46.4978,-116.8047,USA,no public data
+US-GZ3,"Genesee, ID On-farm site Zone 3",46.4949,-116.8019,USA,no public data
+US-HA2,Harvard Forest Hemlock Site,42.5393,-72.1779,USA,accessible data
+US-HA3,Harvard Forest Beaver Swamp,42.539,-72.174,USA,accessible data
+US-HB1,North Inlet Crab Haul Creek,33.3455,-79.1957,USA,accessible data
+US-HB2,Hobcaw Barony Mature Longleaf Pine,33.3242,-79.244,USA,accessible data
+US-HB3,Hobcaw Barony Longleaf Pine Restoration,33.3482,-79.2322,USA,accessible data
+US-HB4,Minim Creek Brackish Impoundment,33.2015,-79.2975,USA,accessible data
+US-HB5,Francis Marion National Forest Longleaf Pine Restoration,33.079,-79.538,USA,no public data
+US-HB6,Loblolly rotation - well drained soils,33.4903,-79.4172,USA,no public data
+US-HB7,Hobcaw Barony Ghost Forest,33.3472,-79.1985,USA,no public data
+US-HBA,Climate Smart 1: Afforestation,33.5,-79.945,USA,no public data
+US-HBB,Climate-Smart 2: Afforestation,34.037,-80.553,USA,no public data
+US-HBK,Hubbard Brook Experimental Forest,43.9397,-71.7181,USA,accessible data
+US-HN1,Hanford 300 Area,46.4089,-119.275,USA,no public data
+US-HO1,Howland Forest (main tower),45.2041,-68.7402,USA,accessible data
+US-HO3,Howland Forest (harvest site),45.2072,-68.725,USA,accessible data
+US-HPY,Hawk Property,40.7692,-74.0853,USA,no public data
+US-HRA,Humnoke Farm Rice Field – Field A,34.5852,-91.7517,USA,accessible data
+US-HRC,Humnoke Farm Rice Field – Field C,34.5888,-91.7517,USA,accessible data
+US-HRN,Humnoke Carr North Rice Field,34.5955,-91.7132,USA,no public data
+US-HRO,Herring River Old County,41.9601,-70.0563,USA,no public data
+US-HRP,Herring River Phragmites,41.938,-70.0552,USA,no public data
+US-HRS,Humnoke Carr South Rice Field,34.5922,-91.7138,USA,no public data
+US-HVA,Happy Valley,69.1423,-148.8412,USA,no public data
+US-HVs,Happy Valley Wet Sedge Tundra,69.1672,-148.8569,USA,accessible data
+US-HWB,USDA ARS Pasture Sytems and Watershed Management Research Unit- Hawbecker Site,40.8608,-77.8488,USA,accessible data
+US-Ha1,Harvard Forest EMS Tower (HFR1),42.5378,-72.1715,USA,accessible data
+US-Hn2,Hanford 100H grassland,46.6889,-119.4641,USA,accessible data
+US-Hn3,Hanford 100H sagebrush,46.6878,-119.4614,USA,accessible data
+US-Ho2,Howland Forest (west tower),45.2091,-68.747,USA,accessible data
+US-Hsm,Hill Slough Marsh,38.2368,-122.0212,USA,accessible data
+US-IAA,Iowa State University NW tower,42.0004,-93.7068,USA,no public data
+US-IAB,Iowa State University NE tower,42.0001,-93.7016,USA,accessible data
+US-IAC,Iowa State University SE tower,41.9984,-93.7016,USA,accessible data
+US-IAM,Iowa State University Miscanthus,41.9994,-93.7042,USA,accessible data
+US-IB1,Fermi National Accelerator Laboratory- Batavia (Agricultural site),41.8593,-88.2227,USA,accessible data
+US-IB2,Fermi National Accelerator Laboratory- Batavia (Prairie site),41.8406,-88.241,USA,accessible data
+US-ICh,Imnavait Creek Watershed Heath Tundra,68.6068,-149.2958,USA,accessible data
+US-ICs,Imnavait Creek Watershed Wet Sedge Tundra,68.6058,-149.311,USA,accessible data
+US-ICt,Imnavait Creek Watershed Tussock Tundra,68.6063,-149.3041,USA,accessible data
+US-IL1,Paspalum notatum long rotational grazing,27.1879,-81.1996,USA,no public data
+US-INA,INFLUX - Cemetery Turfgrass Tower,39.8273,-86.179,USA,accessible data
+US-INB,INFLUX - Golf Course,39.8706,-86.0024,USA,accessible data
+US-INC,INFLUX - Downtown Indianapolis (Site-3),39.7833,-86.1652,USA,accessible data
+US-IND,INFLUX - Agricultural Site East near Pittsboro,39.8645,-86.5005,USA,accessible data
+US-INE,INFLUX - Agricultural Site West near Pittsboro,39.8632,-86.5083,USA,accessible data
+US-INF,INFLUX - East 21st St (Site 2),39.7978,-86.0183,USA,accessible data
+US-ING,INFLUX - Wayne Twp Comm (Site-7),39.7739,-86.2724,USA,accessible data
+US-INI,INFLUX - Agricultural Site East of Indianapolis (Site-9a),39.8167,-85.7005,USA,accessible data
+US-INJ,INFLUX - Agricultural Site East of Indianapolis (Site-9b),39.8766,-85.7066,USA,accessible data
+US-INN,INFLUX - Agricultural Site West of Indianapolis (Site-14a),39.9468,-86.788,USA,accessible data
+US-INP,INFLUX - Agricultural Site West of Indianapolis (Site-14b),39.9477,-86.7821,USA,accessible data
+US-IS1,Illinois SmartFarm - Pesotum Eddy Covariance Site,39.89,-88.21,USA,no public data
+US-IS2,Illinois SmartFarm - Villa Grove Eddy Covariance Site,39.88,-88.15,USA,no public data
+US-IS3,Illinois SmartFarm - Bondville Eddy Covariance Site,40.01,-88.29,USA,no public data
+US-IVO,US-Ivo,68.4865,-155.7503,USA,accessible data
+US-JFM,"Mitchell Creek: Jackson Demonstration State Forest, Intermediate Second-Growth Redwood",39.3757,-123.752,USA,no public data
+US-JFP,"South Parlin: Jackson Demonstration State Forest, Young Second-Growth Redwood",39.3616,-123.6562,USA,no public data
+US-JLN,Jackson Lane - natural,39.0574,-75.7531,USA,no public data
+US-JLR,Jackson Lane - restored,39.0543,-75.7531,USA,no public data
+US-JO2,Jornada Experimental Range Mixed Shrubland,32.5849,-106.6032,USA,accessible data
+US-JO3,Jornada Experimental Range Red Lake Playa,32.7123,-106.8303,USA,no public data
+US-JRN,WV Jacks Run,39.6789,-80.1646,USA,accessible data
+US-JXG,Jornada Experimental Range Historic Grassland,32.5833,-106.8333,USA,no public data
+US-JXN,Jornada Experimental Range Novel Grassy Shrubland,32.6335,-106.8334,USA,no public data
+US-JXS,Jornada Experimental Range Shrubland,32.6502,-106.8334,USA,no public data
+US-Jo1,Jornada Experimental Range Bajada Site,32.582,-106.635,USA,accessible data
+US-KCM,KCMP Tall Tower,44.6886,-93.0728,USA,no public data
+US-KEY,ARPAE-SMARTFARM-OK-Sorghum,36.905,-102.023,USA,no public data
+US-KFB,Konza Prairie LTER (4B),39.0745,-96.5951,USA,no public data
+US-KFS,Kansas Field Station,39.0561,-95.1907,USA,accessible data
+US-KGF,Kingman Farm,43.1717,-70.9259,USA,no public data
+US-KL1,KBS Lux Arbor Reserve Corn,42.4847,-85.4422,USA,accessible data
+US-KL2,KBS Lux Arbor Reserve Switchgrass,42.4768,-85.4468,USA,accessible data
+US-KL3,KBS Lux Arbor Reserve Prairie,42.4735,-85.4473,USA,accessible data
+US-KLS,Kansas Land Institute,38.7745,-97.5684,USA,accessible data
+US-KM1,KBS Marshall Farms Corn,42.4376,-85.3287,USA,accessible data
+US-KM2,KBS Marshall Farms Prairie,42.4441,-85.3098,USA,accessible data
+US-KM3,KBS Marshall Farms Switchgrass,42.4464,-85.3105,USA,accessible data
+US-KM4,KBS Marshall Farms Smooth Brome Grass (Ref),42.4423,-85.3301,USA,accessible data
+US-KPL,Lily Lake Fen,60.5382,-150.5061,USA,accessible data
+US-KS1,Kennedy Space Center (slash pine),28.4583,-80.6709,USA,accessible data
+US-KS2,Kennedy Space Center (scrub oak),28.6086,-80.6715,USA,accessible data
+US-KS3,Kennedy Space Center (salt marsh),28.7084,-80.7427,USA,accessible data
+US-KS4,Kennedy Space Center (Spartina marsh),28.6,-80.7207,USA,no public data
+US-KSA,Kegonsa Solar Array,42.9572,-89.2924,USA,no public data
+US-KSC,Kegonsa Solar - Control,42.9596,-89.2923,USA,no public data
+US-KSP,Kegonsa Solar - Pretreatment,42.9572,-89.2924,USA,no public data
+US-KUO,KUOM tower,44.9984,-93.1884,USA,no public data
+US-KUT,KUOM Turfgrass Field,44.995,-93.1863,USA,accessible data
+US-KYV,Apple Orchard ARS Kearneysville WV,39.3447,-77.8859,USA,no public data
+US-Kon,Konza Prairie LTER (KNZ),39.0824,-96.5603,USA,accessible data
+US-LA1,Pointe-aux-Chenes Brackish Marsh,29.5013,-90.4449,USA,accessible data
+US-LA2,Salvador WMA Freshwater Marsh,29.8587,-90.2869,USA,accessible data
+US-LA3,Barataria Bay Saline Marsh,29.4936,-89.9153,USA,accessible data
+US-LCW,Los Cerritos Wetland,33.7522,-118.0971,USA,no public data
+US-LGR,Lockney Grassland,34.1377,-101.4787,USA,no public data
+US-LL1,Longleaf Pine - Baker (Mesic site),31.2792,-84.5329,USA,accessible data
+US-LL2,Longleaf Pine - Dubignion (Intermediate site),31.201,-84.4449,USA,accessible data
+US-LL3,Longleaf Pine - Red Dirt (Xeric site),31.2688,-84.4787,USA,accessible data
+US-LMA,Mississippi ARS Arant ASP,33.7275,-90.485,USA,no public data
+US-LMB,Mississippi ARS Arant Bau,33.7283,-90.473,USA,no public data
+US-LMS,LMRB LTAR Schmidt Farm,34.1431,-90.6591,USA,no public data
+US-LMW,Mississippi ARS Watts,34.1536,-90.6486,USA,no public data
+US-LPH,Little Prospect Hill,42.5419,-72.185,USA,no public data
+US-LS1,San Pedro River Lewis Springs Sacaton Grassland,31.5615,-110.1403,USA,accessible data
+US-LS2,San Pedro River Lewis Springs Savanna,31.5659,-110.1344,USA,accessible data
+US-LU1,Missouri-Moreau River Basin USDA Certified Organic Farm,38.5048,-92.2487,USA,no public data
+US-LWW,Little Washita Watershed,34.9604,-97.9789,USA,accessible data
+US-Lin,Lindcove Orange Orchard,36.3566,-119.0922,USA,accessible data
+US-Los,Lost Creek,46.0827,-89.9792,USA,accessible data
+US-MAC,MacArthur Agro-Ecology,27.1632,-81.1873,USA,no public data
+US-MBP,Marcell Bog Lake Peatland,47.5051,-93.4893,USA,accessible data
+US-MC1,"Creston, Montana pivot-irrigated spring wheat",48.1873,-114.1548,USA,accessible data
+US-MC2,"Creston, Montana pivot-irrigated spring wheat 2",48.1802,-114.2051,USA,accessible data
+US-MCP,"Moro Cojo Slough, PG&E Treatment Wetland",36.783,-121.769,USA,accessible data
+US-ME2,Metolius mature ponderosa pine,44.4526,-121.5589,USA,accessible data
+US-ME4,Metolius-old aged ponderosa pine,44.4992,-121.6224,USA,accessible data
+US-ME5,Metolius-first young aged pine,44.4372,-121.5668,USA,accessible data
+US-MEF,Manitou Experimental Forest,39.1006,-105.1024,USA,accessible data
+US-MEN,"Lake Mendota, Center for Limnology Site",43.0772,-89.403,USA,accessible data
+US-MFS,Moore Fields,43.1385,-70.961,USA,no public data
+US-MG1,MPG Ranch Rangeland Restoration,46.6996,-114.0353,USA,no public data
+US-MH1,"Huntley, Montana irrigated barley site 1",45.9206,-108.2414,USA,accessible data
+US-MH2,"Huntley, Montana irrigated barley site 2",45.9699,-108.1978,USA,accessible data
+US-MI1,LTAR UCB (Upper Chesapeake Bay) Miscanthus 1,41.7727,-80.6313,USA,accessible data
+US-MI2,LTAR UCB (Upper Chesapeake Bay) Miscanthus 2,41.5479,-80.855,USA,accessible data
+US-MI3,LTAR UCB (Upper Chesapeake Bay) Miscanthus 3,41.8222,-80.637,USA,accessible data
+US-MJ1,Montana Judith Basin wheat field,46.9948,-109.6137,USA,accessible data
+US-MJ2,Montana Judith Basin summer fallow field,46.9957,-109.6295,USA,accessible data
+US-MKG,Maggie Creek Fall Grazed,40.9452,-116.1701,USA,no public data
+US-MKH,Maggie Creek Hay Meadow,40.9882,-116.1633,USA,no public data
+US-MKN,Maggie Creek Non-grazed,40.8941,-116.18,USA,no public data
+US-MMS,Morgan Monroe State Forest,39.3232,-86.4131,USA,accessible data
+US-MN1,"Morris: Corn-Soybean with Cover Crops, Strip Tillage",45.6168,-96.1269,USA,accessible data
+US-MN2,"Morris: Corn-Soybean-Wheat with Cover Crops, Minimal Tillage",45.627,-96.1271,USA,accessible data
+US-MN3,"Morris: Corn-Soybean, Conventional Tillage",45.6091,-96.1265,USA,accessible data
+US-MOz,Missouri Ozark Site,38.7441,-92.2,USA,accessible data
+US-MRF,Mary's River (Fir) site,44.6465,-123.5515,USA,no public data
+US-MRM,Marsh Resource Meadowlands Mitigation Bank,40.8164,-74.0435,USA,no public data
+US-MSR,Montana Sun River winter wheat,47.4758,-111.7207,USA,accessible data
+US-MUR,Murphy's Pond,36.7436,-88.8545,USA,no public data
+US-MVF,Montana Vaughn Fallow,47.6867,-111.4659,USA,accessible data
+US-MVW,Montana Vaughn Wheat,47.6729,-111.4889,USA,accessible data
+US-MWA,Jackson Agricultural Field,42.2143,-84.8539,USA,no public data
+US-MWF,Kellogg Experimental Forest,42.366,-85.3526,USA,no public data
+US-MWS,Michigan State University Campus Site - Spartans,42.7293,-84.4737,USA,no public data
+US-MWU,Battle Creek Area Mathematics and Science Center,42.3228,-85.1871,USA,no public data
+US-MWW,Allegan Wetland,42.6689,-86.0229,USA,no public data
+US-MZA,"Hidden Marsh, Montezuma NWR",43.0441,-76.7897,USA,accessible data
+US-Me1,Metolius - Eyerly burn,44.5794,-121.5,USA,accessible data
+US-Me3,Metolius-second young aged pine,44.3154,-121.6078,USA,accessible data
+US-Me6,Metolius Young Pine Burn,44.3233,-121.6078,USA,accessible data
+US-Me7,Metolius Low Burn Severity Subcanopy,44.4534,-121.5619,USA,accessible data
+US-Mo1,LTAR CMRB Field 1 (CMRB ASP),39.2298,-92.1167,USA,accessible data
+US-Mo2,LTAR CMRB Tucker Prairie (CMRB TP),38.9488,-91.9945,USA,accessible data
+US-Mo3,LTAR CMRB Field 3 (CMRB BAU),39.2322,-92.1493,USA,accessible data
+US-Mpj,Mountainair Pinyon-Juniper Woodland,34.4385,-106.2377,USA,accessible data
+US-MtB,Mt Bigelow,32.416,-110.7256,USA,accessible data
+US-Myb,Mayberry Wetland,38.0499,-121.765,USA,accessible data
+US-NC1,NC_Clearcut,35.8118,-76.7119,USA,accessible data
+US-NC2,NC_Loblolly Plantation,35.803,-76.6685,USA,accessible data
+US-NC3,NC_Clearcut#3,35.799,-76.656,USA,accessible data
+US-NC4,NC_AlligatorRiver,35.7879,-75.9038,USA,accessible data
+US-NC5,NC Butner Farm,36.1565,-78.7878,USA,accessible data
+US-NE1,Mead - irrigated continuous maize site,41.1651,-96.4766,USA,accessible data
+US-NE2,Mead - irrigated maize-soybean rotation site,41.1649,-96.4701,USA,accessible data
+US-NE3,Mead - rainfed maize-soybean rotation site,41.1797,-96.4397,USA,accessible data
+US-NGB,NGEE Arctic Barrow,71.28,-156.6092,USA,accessible data
+US-NGC,NGEE Arctic Council,64.8618,-163.7002,USA,accessible data
+US-NMJ,Northern Michigan Jack Pine Stand,46.6465,-88.5194,USA,accessible data
+US-NP1,Business-As-Usual Management (mandanh5),46.7756,-100.951,USA,no public data
+US-NP2,ASPirational Management (mandani2),46.7613,-100.9257,USA,no public data
+US-NR1,Niwot Ridge Forest (LTER NWT1),40.0329,-105.5464,USA,accessible data
+US-NR2,Niwot Ridge Forest (USGS site),40.0325,-105.5469,USA,no public data
+US-NR3,Niwot Ridge Alpine (T-Van West),40.052,-105.5864,USA,accessible data
+US-NR4,Niwot Ridge Alpine (T-Van East),40.052,-105.5859,USA,accessible data
+US-NRF,Nisqually reference,47.0935,-122.6927,USA,no public data
+US-NRS,Nisqually restoring,47.0936,-122.7079,USA,no public data
+US-NSW,Newman Seasonal Wetlands,37.3091,-121.0042,USA,no public data
+US-NSa,NASA HAQ - SJV East Irrigated Vineyard,36.6029,-119.5061,USA,accessible data
+US-NSb,NASA HAQ - SJV West Irrigated Cotton,36.3354,-120.1183,USA,accessible data
+US-OF1,Osceola Farm Rice Field - SW,35.7371,-90.0492,USA,no public data
+US-OF2,Osceola Farm Rice Field - NW,35.7406,-90.0489,USA,no public data
+US-OK1,ECB: Site A1 - North Field,41.5348,-84.8068,USA,no public data
+US-OK2,ECB: Site A3 - South Field,41.766,-111.855,USA,no public data
+US-ONA,Florida pine flatwoods,27.3836,-81.9509,USA,accessible data
+US-OPE,Optimizing Production Inputs for Economic and Environmental Enhancement (OPE3),39.0293,-76.8457,USA,accessible data
+US-ORV,Olentangy River Wetland Research Park,40.0201,-83.0183,USA,accessible data
+US-OWC,Old Woman Creek,41.3795,-82.5125,USA,accessible data
+US-Oho,Oak Openings,41.5545,-83.8438,USA,accessible data
+US-PAS,"Florida, Paspalum notatum pasture",27.3944,-81.951,USA,accessible data
+US-PEA,5R Pecan Farm Above Canopy,31.4123,-106.0788,USA,no public data
+US-PFA,Park Falls/WLEF,45.9459,-90.2723,USA,accessible data
+US-PFE,NW4 Lake-1 CHEESEHEAD 2019,45.9793,-90.3004,USA,accessible data
+US-PFL,SW2 Aspen-3 CHEESEHEAD 2019,45.9409,-90.3177,USA,accessible data
+US-PFO,SE1 Lake-2 CHEESEHEAD 2019,45.9229,-90.2728,USA,accessible data
+US-PFS,SE5 Aspen-5 CHEESEHEAD 2019,45.9381,-90.2382,USA,accessible data
+US-PFb,NW1 Pine-1 CHEESEHEAD 2019,45.972,-90.3232,USA,accessible data
+US-PFc,NW2 Aspen-1 CHEESEHEAD 2019,45.9677,-90.3088,USA,accessible data
+US-PFd,NW3 Tussock-1 CHEESEHEAD 2019,45.9689,-90.301,USA,accessible data
+US-PFf,NW5 Grass-1 CHEESEHEAD 2019,45.9458,-90.2944,USA,accessible data
+US-PFg,NE1 Pine-2 CHEESEHEAD 2019,45.9735,-90.2723,USA,accessible data
+US-PFh,NE2 Pine-3 CHEESEHEAD 2019,45.9557,-90.2406,USA,accessible data
+US-PFi,NE3 Hardwood-1 CHEESEHEAD 2019,45.9749,-90.2327,USA,accessible data
+US-PFj,NE4 Maple-1 CHEESEHEAD 2019,45.9619,-90.227,USA,accessible data
+US-PFk,SW1 Aspen-2 CHEESEHEAD 2019,45.9149,-90.3425,USA,accessible data
+US-PFm,SW3 Hardwood-2 CHEESEHEAD 2019,45.9207,-90.3099,USA,accessible data
+US-PFn,SW4 Hardwood-3 CHEESEHEAD 2019,45.9392,-90.2823,USA,accessible data
+US-PFp,SE2 Hardwood-4 CHEESEHEAD 2019,45.9365,-90.2641,USA,accessible data
+US-PFq,SE3 Aspen-4 CHEESEHEAD 2019,45.9271,-90.2475,USA,accessible data
+US-PFr,SE4 Tussock-2 CHEESEHEAD 2019,45.9245,-90.2475,USA,accessible data
+US-PFt,SE6 Pine-4 CHEESEHEAD 2019,45.9197,-90.2288,USA,accessible data
+US-PHM,Plum Island High Marsh,42.7423,-70.8301,USA,accessible data
+US-PIU,Pine Upland,26.0004,-80.9261,USA,no public data
+US-PLM,Plum Island Low Marsh,42.7345,-70.8382,USA,no public data
+US-PLo,Plum Island Oligohaline Marsh,42.7496,-70.9157,USA,accessible data
+US-PNP,"Lake Mendota, Picnic Point Site",43.0896,-89.4158,USA,accessible data
+US-PON,Ponca City,36.7667,-97.1333,USA,no public data
+US-PSH,USSL San Joaquin Valley Pistachio High,36.2347,-119.9247,USA,accessible data
+US-PSL,USSL San Joaquin Valley Pistachio Low,36.8276,-120.1397,USA,accessible data
+US-PVA,PVAMU Research Farm,30.0958,-95.9695,USA,no public data
+US-PX1,"Phoenix, Maryvale Neighborhood Site",33.4839,-112.1426,USA,no public data
+US-PX2,"Phoenix, Encanto Golf Course",33.4785,-112.098,USA,no public data
+US-PX3,"Phoenix, Desert botanical garden site",33.4582,-111.9428,USA,no public data
+US-PX4,"Phoenix, Encanto Vehicle Lot",33.4734,-112.0985,USA,no public data
+US-PX5,ASU Polytech Center for Bio-mediated and Bio-inspired Geotechnics (CBBG) Field Lab,33.3035,-111.6822,USA,no public data
+US-Prr,Poker Flat Research Range Black Spruce Forest,65.1237,-147.4876,USA,accessible data
+US-RC1,Cook Agronomy Farm - No Till,46.7837,-117.0777,USA,accessible data
+US-RC2,Cook Agronomy Farm - Conventional Till,46.7776,-117.0807,USA,accessible data
+US-RC3,WSU Lind Dryland Research Station,46.991,-118.598,USA,accessible data
+US-RC4,Moscow Mountain on-farm site,46.758,-116.949,USA,accessible data
+US-RC5,Moses Lake on-farm site,47.01,-119.248,USA,accessible data
+US-RFE,RockyFlats - East site,39.8771,-105.169,USA,no public data
+US-RFW,RockyFlats - West site,39.8751,-105.2184,USA,no public data
+US-RGA,Arkansas Corn Farm,34.4159,-91.6733,USA,accessible data
+US-RGB,Butte County Rice Farm,39.5782,-121.8579,USA,accessible data
+US-RGF,Stanislaus County Forage Farm,37.6995,-121.1369,USA,accessible data
+US-RGG,Glenn County Rice Farm,39.5944,-122.0253,USA,no public data
+US-RGR,Arva Ryan's Field,34.4346,-91.6892,USA,no public data
+US-RGW,Desha County Rice Farm,33.6216,-91.4306,USA,accessible data
+US-RGo,Glenn County Organic Rice Farm,39.6805,-122.0026,USA,accessible data
+US-RRC,Rice Rivers Center Marsh,37.3344,-77.2065,USA,accessible data
+US-RTS,Toolik Retrogressive Thaw Slump,68.5273,-149.5492,USA,no public data
+US-Rls,RCEW Low Sagebrush,43.1439,-116.7356,USA,accessible data
+US-Rms,RCEW Mountain Big Sagebrush,43.0645,-116.7486,USA,accessible data
+US-Ro1,Rosemount- G21,44.7143,-93.0898,USA,accessible data
+US-Ro2,Rosemount- C7,44.7288,-93.0888,USA,accessible data
+US-Ro3,Rosemount- G19,44.7217,-93.0893,USA,accessible data
+US-Ro4,Rosemount Prairie,44.6781,-93.0723,USA,accessible data
+US-Ro5,Rosemount I18_South,44.691,-93.0576,USA,accessible data
+US-Ro6,Rosemount I18_North,44.6946,-93.0578,USA,accessible data
+US-Rpf,Poker Flat Research Range: Succession from fire scar to deciduous forest,65.1198,-147.429,USA,accessible data
+US-Rwe,RCEW Reynolds Mountain East,43.0653,-116.7591,USA,accessible data
+US-Rwf,RCEW Upper Sheep Prescibed Fire,43.1207,-116.7231,USA,accessible data
+US-Rws,Reynolds Creek Wyoming big sagebrush,43.1675,-116.7132,USA,accessible data
+US-SB1,Sweet Briar Land-Atmosphere Research Station,37.5734,-79.0848,USA,accessible data
+US-SB2,Sweet Briar Grass,37.5607,-79.0883,USA,no public data
+US-SB3,Sweet Briar Clearcut,37.5752,-79.0872,USA,no public data
+US-SBR,Seal Beach National Wildlife Refuge,33.734,-118.0672,USA,no public data
+US-SCC,Southern California Climate Gradient - Desert Chaparral,33.6094,-116.4505,USA,no public data
+US-SCD,Southern California Climate Gradient - Sonoran Desert,33.6518,-116.3721,USA,no public data
+US-SCF,Southern California Climate Gradient - Oak/Pine Forest,33.8079,-116.7717,USA,no public data
+US-SCG,Southern California Climate Gradient - Grassland,33.7365,-117.6946,USA,no public data
+US-SCS,Southern California Climate Gradient - Coastal Sage,33.7343,-117.6959,USA,no public data
+US-SCW,Southern California Climate Gradient - Pinyon/Juniper Woodland,33.6047,-116.4527,USA,no public data
+US-SD1,Shatto Ditch Paired Cropland - Site 1 (Corn/Soy; No Cover Crops),41.2048,-86.0296,USA,accessible data
+US-SD2,Shatto Ditch Paired Cropland - Site 2 (Corn/Soy; Cover Crops),41.1785,-85.9977,USA,accessible data
+US-SDH,Nebraska SandHills Dry Valley,42.0693,-101.4072,USA,accessible data
+US-SDU,South Denver Urban Tower,39.6594,-105.0127,USA,no public data
+US-SEG,Sevilleta grassland,34.3623,-106.702,USA,accessible data
+US-SES,Sevilleta shrubland,34.3349,-106.7442,USA,accessible data
+US-SFP,Sioux Falls Portable,43.2408,-96.902,USA,no public data
+US-SHC,Sagehen Creek Field Station,39.4315,-120.2398,USA,accessible data
+US-SHD,Shidler- Oklahoma,36.9333,-96.6833,USA,no public data
+US-SHS,Secaucus High School Site,40.8052,-74.0457,USA,no public data
+US-SI1,Staten Island Fallow,38.1747,-121.5047,USA,no public data
+US-SI2,Staten Island Flooded,38.1758,-121.5167,USA,no public data
+US-SJ1,San Joaquin (Freshwater Marsh Tower 1),33.6623,-117.8514,USA,no public data
+US-SJ2,San Joaquin (Freshwater Marsh Tower 2),33.6596,-117.855,USA,no public data
+US-SKR,Shark River Slough (Tower SRS-6) Everglades,25.3629,-81.0776,USA,no public data
+US-SLT,Silas Little- New Jersey,39.9138,-74.596,USA,accessible data
+US-SM1,Texas SmartFarm Project,36.3934,-100.9537,USA,no public data
+US-SND,Sherman Island,38.0366,-121.754,USA,accessible data
+US-SO2,Sky Oaks- Old Stand,33.3738,-116.6228,USA,no public data
+US-SO3,Sky Oaks- Young Stand,33.3771,-116.6226,USA,no public data
+US-SO4,Sky Oaks- New Stand,33.3845,-116.6406,USA,no public data
+US-SP1,Slashpine-Austin Cary- 65yrs nat regen,29.7381,-82.2188,USA,accessible data
+US-SP2,"Slashpine-Mize-clearcut-3yr,regen",29.7648,-82.2448,USA,accessible data
+US-SP3,Slashpine-Donaldson-mid-rot- 12yrs,29.7548,-82.1633,USA,accessible data
+US-SP4,Slashpine-Rayonier-mid-rot- 12yrs,29.8028,-82.2031,USA,accessible data
+US-SRC,Santa Rita Creosote,31.9083,-110.8395,USA,accessible data
+US-SRG,Santa Rita Grassland,31.7894,-110.8277,USA,accessible data
+US-SRM,Santa Rita Mesquite,31.8214,-110.8661,USA,accessible data
+US-SRS,Santa Rita Savanna,31.8173,-110.8508,USA,accessible data
+US-SSH,Susquehanna Shale Hills Critical Zone Observatory,40.6658,-77.9041,USA,accessible data
+US-STS,Strawberry Swamp,33.3302,-79.2492,USA,no public data
+US-SUM,Maui Sugarcane Middle,20.7981,-156.454,USA,accessible data
+US-SUS,Maui Sugarcane Lee/Sheltered,20.7847,-156.4039,USA,accessible data
+US-SUW,Maui Sugarcane Windy,20.8246,-156.4913,USA,accessible data
+US-SVC,Savannah River Control,33.3504,-81.658,USA,no public data
+US-SVP,Savannah River Prescribe Fire,33.3616,-81.673,USA,no public data
+US-SX1,Santee Experimental Forest Longleaf Pine Clearcut,33.1439,-79.7748,USA,no public data
+US-SX2,Santee Experimental Forest Longleaf Pine Thinned,33.1404,-79.7718,USA,no public data
+US-SX3,Santee Experimental Forest Unmanaged HW-Pine,33.1494,-79.7888,USA,no public data
+US-SYV,Sylvania Wilderness Area,46.242,-89.3477,USA,accessible data
+US-SZ1,"St. John, WA On-farm site Zone 1",47.1245,-117.5306,USA,no public data
+US-SZ2,"St. John, WA On-farm site Zone 2",47.1226,-117.5271,USA,no public data
+US-SZ3,"St. John, WA On-farm site Zone 3",47.1261,-117.5267,USA,no public data
+US-Sag,Sag River,69.5131,-148.5676,USA,accessible data
+US-Sne,Sherman Island Restored Wetland,38.0369,-121.7547,USA,accessible data
+US-Snf,Sherman Barn,38.0402,-121.7272,USA,accessible data
+US-Srr,Suisun marsh - Rush Ranch,38.2006,-122.0264,USA,accessible data
+US-StJ,St Jones Reserve,39.0882,-75.4372,USA,accessible data
+US-Sta,Saratoga,41.3966,-106.8024,USA,accessible data
+US-TAS,Taylor Slough/Panhandle,25.1908,-80.6391,USA,accessible data
+US-TCS,Tall Cypress Swamp,25.8221,-81.1017,USA,no public data
+US-TEF,Tenderfoot Creek Experimental Forest,46.9522,-110.8851,USA,accessible data
+US-TFF,Thompson Farm Forest,43.1084,-70.9523,USA,no public data
+US-TKs,Toolik Shrub Tundra,68.6337,-149.5769,USA,accessible data
+US-TLR,Timberlake Observatory for Wetland Restoration (TOWeR),35.9168,-76.1463,USA,accessible data
+US-TRB,Trout Bog,46.0412,-89.6862,USA,accessible data
+US-TRS,Trout Lake Area South Sparkling Bog,46.0034,-89.7053,USA,accessible data
+US-TSM,"Port Arthur, TX Salt Marsh",29.7711,-93.9924,USA,no public data
+US-TUR,Turner Ranch,45.5571,-111.2286,USA,accessible data
+US-TX1,Stiles Farm Prairie,30.6176,-97.2938,USA,no public data
+US-TX2,Riesel Farm Native Prairie,31.4802,-96.8827,USA,no public data
+US-TX3,Riesel Farm Aspirational Agriculture,31.4777,-96.8883,USA,no public data
+US-TX4,Riesel Farm Traditional Agriculture,31.4693,-96.8865,USA,no public data
+US-TX5,Texas A&M University Farm,30.5328,-96.4252,USA,no public data
+US-TX6,La Copita Grassland - Savanna,27.6666,-98.2089,USA,no public data
+US-TX7,La Copita Shrubland - Savanna,27.665,-98.2007,USA,no public data
+US-TX8,Danciger Lowland Hardwood Forest,29.1659,-95.829,USA,no public data
+US-TX9,Sargent Unit Salt Marsh,28.7805,-95.6144,USA,no public data
+US-Ton,Tonzi Ranch,38.4309,-120.966,USA,accessible data
+US-Tw1,Twitchell Wetland West Pond,38.1074,-121.6469,USA,accessible data
+US-Tw2,Twitchell Corn,38.0969,-121.6365,USA,accessible data
+US-Tw3,Twitchell Alfalfa,38.1152,-121.6469,USA,accessible data
+US-Tw4,Twitchell East End Wetland,38.1027,-121.6413,USA,accessible data
+US-Tw5,East Pond Wetland,38.1072,-121.6426,USA,accessible data
+US-Twt,Twitchell Island,38.1087,-121.6531,USA,accessible data
+US-UC1,LTAR UCB (Upper Chesapeake Bay) EC1,40.7536,-78.0056,USA,accessible data
+US-UC2,LTAR UCB (Upper Chesapeake Bay) EC2,40.7559,-77.9998,USA,accessible data
+US-UG1,East River Riparian,38.923,-106.9524,USA,no public data
+US-ULM,ULM Flux Tower,32.457,-91.9743,USA,no public data
+US-UM3,Douglas Lake,45.5686,-84.6707,USA,accessible data
+US-UMB,Univ. of Mich. Biological Station,45.5598,-84.7138,USA,accessible data
+US-UMd,UMBS Disturbance,45.5625,-84.6975,USA,accessible data
+US-UPA,Upad,70.2815,-148.8848,USA,no public data
+US-UR0,Baggs - UCRB,41.0438,-107.68,USA,no public data
+US-UR1,Boulder - UCRB,42.683,-109.544,USA,no public data
+US-UR2,Cora - UCRB,42.959,-110.071,USA,no public data
+US-UR3,Ft. Bridger - UCRB,41.29,-110.401,USA,no public data
+US-UR4,Gunnison - UCRB,38.4369,-106.6392,USA,no public data
+US-UR5,La Plata - UCRB,36.9236,-108.1943,USA,no public data
+US-UR6,Napi - UCRB,36.5699,-108.1125,USA,no public data
+US-UR7,Olathe - UCRB,38.6184,-108.0595,USA,no public data
+US-UR8,Yellow Jacket - UCRB,37.5405,-108.739,USA,no public data
+US-UR9,Farson - UCRB,42.1643,-109.462,USA,no public data
+US-UTB,UFLUX Bonneville Salt Flats,40.7848,-113.8299,USA,accessible data
+US-UTD,UFLUX Dugout Ranch,38.1038,-109.5952,USA,accessible data
+US-UTE,UFLUX Escalante,37.7353,-111.5708,USA,accessible data
+US-UTG,UFLUX Green River,39.0188,-110.1663,USA,no public data
+US-UTJ,UFLUX Bluff,37.2818,-109.5348,USA,accessible data
+US-UTL,UFLUX Pelican Lake,40.1877,-109.6579,USA,accessible data
+US-UTM,UFLUX Matheson,38.5879,-109.5775,USA,accessible data
+US-UTN,UFLUX Nephi,39.6896,-111.8814,USA,accessible data
+US-UTP,UFLUX Great Salt Lake Phragmites,41.0604,-112.1013,USA,accessible data
+US-UTV,UFLUX Desert View,40.1266,-109.9546,USA,accessible data
+US-UTW,UFLUX Wellington,39.4453,-110.7288,USA,accessible data
+US-UUC,University of Utah Compass Minerals Flux,41.2961,-112.3074,USA,no public data
+US-UUP,University of Utah Playa Flux,41.0303,-112.1175,USA,no public data
+US-Uaf,"University of Alaska, Fairbanks",64.8663,-147.8555,USA,accessible data
+US-UiA,University of Illinois Switchgrass,40.0646,-88.1961,USA,accessible data
+US-UiB,University of Illinois Miscanthus,40.0628,-88.1984,USA,accessible data
+US-UiC,University of Illinois Maize-Soy,40.0628,-88.1961,USA,accessible data
+US-UiD,University of Illinois Restored Native Prairie,40.0646,-88.1985,USA,accessible data
+US-UiE,University of Illinois Sorghum-Soy,40.0629,-88.2033,USA,accessible data
+US-UiF,University of Illinois Miscanthus 2,40.0665,-88.2015,USA,accessible data
+US-UiG,University of Illinois Maize-Soy 2,40.0629,-88.2009,USA,accessible data
+US-VAR,Vaira Ranch- Ione,38.4133,-120.9508,USA,accessible data
+US-VCS,Valles Caldera Sulphur Springs Mixed Conifer,35.9193,-106.6142,USA,accessible data
+US-VFP,Virginia Coast Reserve Fowling Point,37.4111,-75.8333,USA,no public data
+US-VT1,Vermillion Tributary Paired Cropland – Site 1 (Corn/Soy; No Cover Crops),40.4064,-87.5214,USA,accessible data
+US-VT2,Vermillion Tributary Paired Cropland – Site 2 (Corn/Soy; Cover Crops),40.4018,-87.5213,USA,accessible data
+US-Vcm,Valles Caldera Mixed Conifer,35.8884,-106.5321,USA,accessible data
+US-Vcp,Valles Caldera Ponderosa Pine,35.8642,-106.5967,USA,accessible data
+US-WBW,Walker Branch Watershed,35.9588,-84.2874,USA,no public data
+US-WCR,Willow Creek,45.8059,-90.0799,USA,accessible data
+US-WDN,Walden,40.7838,-106.2618,USA,no public data
+US-WEP,West Edge Parking Lot,43.1421,-70.9543,USA,no public data
+US-WGR,Willamette Grass,45.1129,-122.656,USA,no public data
+US-WHS,Walnut Gulch Lucky Hills Shrub,31.7438,-110.0522,USA,accessible data
+US-WI0,Young red pine (YRP),46.6188,-91.0814,USA,accessible data
+US-WI1,Intermediate hardwood (IHW),46.7305,-91.2329,USA,accessible data
+US-WI2,Intermediate red pine (IRP),46.6869,-91.1528,USA,accessible data
+US-WI3,Mature hardwood (MHW),46.6347,-91.0987,USA,accessible data
+US-WI4,Mature red pine (MRP),46.7393,-91.1663,USA,accessible data
+US-WI5,Mixed young jack pine (MYJP),46.6531,-91.0858,USA,accessible data
+US-WI6,Pine barrens #1 (PB1),46.6249,-91.2982,USA,accessible data
+US-WI7,Red pine clearcut (RPCC),46.6491,-91.0693,USA,accessible data
+US-WI8,Young hardwood clearcut (YHW),46.7223,-91.2524,USA,accessible data
+US-WI9,Young Jack pine (YJP),46.7385,-91.0746,USA,accessible data
+US-WKG,Walnut Gulch Kendall Grasslands,31.7365,-109.9419,USA,accessible data
+US-WLR,Walnut River Watershed (Smileyburg),37.5208,-96.855,USA,accessible data
+US-WPP,Willamette Poplar,44.1369,-123.1824,USA,no public data
+US-WPT,Winous Point North Marsh,41.4646,-82.9962,USA,accessible data
+US-WRC,Wind River Crane Site,45.8205,-121.9519,USA,accessible data
+US-WT1,"Kress, TX no-till cotton and grain sorghum production",34.3674,-101.8154,USA,accessible data
+US-WT2,Stratford CSI,36.3393,-101.829,USA,no public data
+US-WT3,Stratford LICOR,36.339,-101.829,USA,no public data
+US-WWT,Willamette Wheat,45.1089,-122.6664,USA,no public data
+US-Wjs,Willard Juniper Savannah,34.4255,-105.8615,USA,accessible data
+US-XAB,NEON Abby Road (ABBY),45.7624,-122.3303,USA,accessible data
+US-XAE,NEON Klemme Range Research Station (OAES),35.4106,-99.0588,USA,accessible data
+US-XBA,NEON Barrow Environmental Observatory (BARR),71.2824,-156.6194,USA,accessible data
+US-XBL,NEON Blandy Experimental Farm (BLAN),39.0603,-78.0716,USA,accessible data
+US-XBN,NEON Caribou Creek - Poker Flats Watershed (BONA),65.154,-147.5026,USA,accessible data
+US-XBR,NEON Bartlett Experimental Forest (BART),44.0639,-71.2873,USA,accessible data
+US-XCL,NEON LBJ National Grassland (CLBJ),33.4012,-97.57,USA,accessible data
+US-XCP,NEON Central Plains Experimental Range (CPER),40.8155,-104.7456,USA,accessible data
+US-XDC,NEON Dakota Coteau Field School (DCFS),47.1617,-99.1066,USA,accessible data
+US-XDJ,NEON Delta Junction (DEJU),63.8811,-145.7514,USA,accessible data
+US-XDL,NEON Dead Lake (DELA),32.5417,-87.8039,USA,accessible data
+US-XDS,NEON Disney Wilderness Preserve (DSNY),28.125,-81.4362,USA,accessible data
+US-XGR,"NEON Great Smoky Mountains National Park, Twin Creeks (GRSM)",35.689,-83.5019,USA,accessible data
+US-XHA,NEON Harvard Forest (HARV),42.5369,-72.1727,USA,accessible data
+US-XHE,NEON Healy (HEAL),63.8757,-149.2133,USA,accessible data
+US-XJE,NEON Jones Ecological Research Center (JERC),31.1948,-84.4686,USA,accessible data
+US-XJR,NEON Jornada LTER (JORN),32.5907,-106.8425,USA,accessible data
+US-XKA,NEON Konza Prairie Biological Station - Relocatable (KONA),39.1104,-96.6129,USA,accessible data
+US-XKZ,NEON Konza Prairie Biological Station (KONZ),39.1008,-96.5631,USA,accessible data
+US-XLE,NEON Lenoir Landing (LENO),31.8539,-88.1612,USA,accessible data
+US-XMB,NEON Moab (MOAB),38.2483,-109.3883,USA,accessible data
+US-XML,NEON Mountain Lake Biological Station (MLBS),37.3783,-80.5248,USA,accessible data
+US-XNG,NEON Northern Great Plains Research Laboratory (NOGP),46.7697,-100.9154,USA,accessible data
+US-XNQ,NEON Onaqui-Ault (ONAQ),40.1776,-112.4524,USA,accessible data
+US-XNW,NEON Niwot Ridge Mountain Research Station (NIWO),40.0543,-105.5824,USA,accessible data
+US-XPU,NEON Pu'u Maka'ala Natural Area Reserve (PUUM),19.5531,-155.3173,USA,accessible data
+US-XRM,"NEON Rocky Mountain National Park, CASTNET (RMNP)",40.2759,-105.5459,USA,accessible data
+US-XRN,NEON Oak Ridge National Lab (ORNL),35.9641,-84.2826,USA,accessible data
+US-XSB,NEON Ordway-Swisher Biological Station (OSBS),29.6893,-81.9934,USA,accessible data
+US-XSC,NEON Smithsonian Conservation Biology Institute (SCBI),38.8929,-78.1395,USA,accessible data
+US-XSE,NEON Smithsonian Environmental Research Center (SERC),38.8901,-76.56,USA,accessible data
+US-XSJ,NEON San Joaquin Experimental Range (SJER),37.1088,-119.7323,USA,accessible data
+US-XSL,"NEON North Sterling, CO (STER)",40.4619,-103.0293,USA,accessible data
+US-XSP,NEON Soaproot Saddle (SOAP),37.0334,-119.2622,USA,accessible data
+US-XSR,NEON Santa Rita Experimental Range (SRER),31.9107,-110.8355,USA,accessible data
+US-XST,NEON Steigerwaldt Land Services (STEI),45.5089,-89.5864,USA,accessible data
+US-XTA,NEON Talladega National Forest (TALL),32.9505,-87.3933,USA,accessible data
+US-XTE,NEON Lower Teakettle (TEAK),37.0058,-119.006,USA,accessible data
+US-XTL,NEON Toolik (TOOL),68.6611,-149.3705,USA,accessible data
+US-XTR,NEON Treehaven (TREE),45.4937,-89.5857,USA,accessible data
+US-XUK,NEON The University of Kansas Field Station (UKFS),39.0404,-95.1921,USA,accessible data
+US-XUN,NEON University of Notre Dame Environmental Research Center (UNDE),46.2339,-89.5373,USA,accessible data
+US-XWD,NEON Woodworth (WOOD),47.1282,-99.2414,USA,accessible data
+US-XWR,NEON Wind River Experimental Forest (WREF),45.8205,-121.9519,USA,accessible data
+US-XYE,NEON Yellowstone Northern Range (Frog Rock) (YELL),44.9535,-110.5391,USA,accessible data
+US-YK1,"Yukon-Kuskokwim Delta, Izaviknek-Kingaglia uplands, Burned 2015",61.2723,-163.2228,USA,accessible data
+US-YK2,"Yukon-Kuskokwim Delta, Izaviknek-Kingaglia uplands, Unburned",61.2548,-163.259,USA,accessible data
+US-YLW,Yellow Cab urban,29.7894,-95.3536,USA,no public data
+US-YNS,North Star Yedoma,64.8939,-147.6374,USA,no public data
+US-ZF1,Zumwalt Farm Treatment,40.7976,-87.5355,USA,accessible data
+US-ZF2,Zumwalt Farm Control,40.7939,-87.5355,USA,accessible data
+VIC,"VietCarbo Site-Rice paddle field in Mekong Delta, Vietnam",10.780389,105.766972,Vietnam,no public data
+VN-NCT,Nam Cat Tien Forest,11.457145,107.402916,Vietnam,no public data
+VU-Coc,Cocoflux,-15.444423,167.19131,Vanuatu,accessible data
+X03,Xilinhot degraded steppe,43.553056,116.672222,China,no public data
+X06,Xilinhot Fenced steppe,43.54583,116.6778,China,no public data
+YCS,Yuchen Site,36.833333,116.570277,China,no public data
+ZA-BfK,Benfontien Karoo,-28.856483,24.83985,South Africa,accessible data
+ZA-BfS,Benfontien Savanna,-28.8906,24.86112,South Africa,accessible data
+ZA-Jks,Jonkershoek,-33.99029,18.95543,South Africa,accessible data
+ZA-Kru,Skukuza,-25.0197,31.4969,South Africa,accessible data
+ZA-Map,Malopeni,-23.83254,31.21436,South Africa,accessible data
+ZA-Spk,Spioenkop,-28.70408,29.52614,South Africa,accessible data
+ZA-Uby,Umhlabuyalingana,-27.3952,32.5889,South Africa,accessible data
+ZA-Wgn,Welgegund,-26.56944444,26.93916667,South Africa,no public data
+ZM-Mon,Mongu,-15.4391,23.2525,Zambia,accessible data
+w,Tibet Grassland Site,31.37,91.9,China,no public data

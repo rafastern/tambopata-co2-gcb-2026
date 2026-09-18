@@ -1,0 +1,41 @@
+{
+  "title": "tambopata-co2-gcb-2026: analysis code for eddy-covariance CO2 and water fluxes at Tambopata (PE-TNR)",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "Analysis code (R) for long-term eddy-covariance CO2 and water-flux measurements at the Tambopata National Reserve, southwestern Amazonia, Peru (AmeriFlux site PE-TNR; AndesFlux/PUCP), 2017-2024. Accompanies Stern et al., 'Long-Term Flux Measurements in Southwestern Amazonia Reveal a Near-Neutral CO2 Balance and Unique Effects of El Nino-Southern Oscillation', Global Change Biology (submitted). The aggregated processed data underlying the figures and tables, and the half-hourly record, are archived as separate Zenodo dataset records; the curated long-term record is released via AmeriFlux.",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    { "name": "Stern, Rafael", "affiliation": "Stanford University" },
+    { "name": "Cruz, Rudi", "affiliation": "Pontificia Universidad Católica del Perú" },
+    { "name": "Negrón-Juárez, Robinson", "affiliation": "Lawrence Berkeley National Laboratory" },
+    { "name": "Ramos, Esteban", "affiliation": "Pontificia Universidad Católica del Perú" },
+    { "name": "Knox, Sara H.", "affiliation": "McGill University" },
+    { "name": "Hoyt, Alison M.", "affiliation": "Stanford University" },
+    { "name": "Jackson, Robert B.", "affiliation": "Stanford University" },
+    { "name": "Li, Fa", "affiliation": "Stanford University" },
+    { "name": "Dayalu, Archana", "affiliation": "Home Energy Efficiency Team (HEET)" },
+    { "name": "Pernak, Richard", "affiliation": "Atmospheric and Environmental Research (AER)" },
+    { "name": "Grace, John", "affiliation": "University of Edinburgh" },
+    { "name": "Gloor, Emanuel", "affiliation": "University of Leeds" },
+    { "name": "Salinas, Norma", "affiliation": "Pontificia Universidad Católica del Perú" },
+    { "name": "Cosio, Eric G.", "affiliation": "Pontificia Universidad Católica del Perú" }
+  ],
+  "keywords": [
+    "eddy covariance",
+    "net ecosystem exchange",
+    "vapor pressure deficit",
+    "surface conductance",
+    "ENSO",
+    "tropical forest carbon flux",
+    "southwestern Amazonia",
+    "Tambopata"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/rafastern/tambopata-co2-gcb-2026",
+      "scheme": "url"
+    }
+  ]
+}

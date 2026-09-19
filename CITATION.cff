@@ -50,6 +50,17 @@ repository-code: "https://github.com/rafastern/tambopata-co2-gcb-2026"
 license: MIT
 version: "1.0.0"
 date-released: "2026-09-18"
+doi: "10.5281/zenodo.22838256"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22838256"
+    description: "Concept DOI for the analysis code (all versions)"
+  - type: doi
+    value: "10.5281/zenodo.22838676"
+    description: "Aggregated processed data underlying the figures and tables"
+  - type: doi
+    value: "10.5281/zenodo.22839383"
+    description: "Half-hourly eddy-covariance CO2, energy and meteorological record, 2017-2024"
 preferred-citation:
   type: article
   title: "Long-Term Flux Measurements in Southwestern Amazonia Reveal a Near-Neutral CO2 Balance and Unique Effects of El Niño-Southern Oscillation"

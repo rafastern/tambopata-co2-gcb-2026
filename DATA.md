@@ -7,8 +7,8 @@ lists every input the analysis needs, where it comes from, and its licence.
 Run `code/check_data.R` at any point to see which inputs are present and which
 are still missing.
 
-> **DOIs are minted at release.** The placeholders below must be replaced before
-> the Data Availability Statement is final.
+All three archives are published. The DOIs below are **concept DOIs** — they always
+resolve to the newest version of each record.
 
 ---
 
@@ -16,9 +16,9 @@ are still missing.
 
 | What | Where | Licence |
 |---|---|---|
-| **Aggregated processed products** — 52 files: the 48-point monthly diel composites, light-response parameter tables, daily/16-day/monthly carbon-balance and meteorology summaries, per-year coverage and energy-balance closure tables, the storage-term comparison, and the morning-transition, partitioning and VPD-constraint result tables | Zenodo `10.5281/zenodo.XXXXXXX` | CC BY 4.0 |
-| **Half-hourly record**, 2017-01-01 to 2024-10-15 — 24 columns of CO2, energy and meteorological series (136,559 half-hours) | Zenodo `10.5281/zenodo.XXXXXXX` | CC BY 4.0 |
-| **Analysis code** — this repository | Zenodo `10.5281/zenodo.XXXXXXX` | MIT |
+| **Aggregated processed products** — 52 files: the 48-point monthly diel composites, light-response parameter tables, daily/16-day/monthly carbon-balance and meteorology summaries, per-year coverage and energy-balance closure tables, the storage-term comparison, and the morning-transition, partitioning and VPD-constraint result tables | Zenodo [`10.5281/zenodo.22838676`](https://doi.org/10.5281/zenodo.22838676) | CC BY 4.0 |
+| **Half-hourly record**, 2017-01-01 to 2024-10-15 — 24 columns of CO2, energy and meteorological series (136,559 half-hours) | Zenodo [`10.5281/zenodo.22839383`](https://doi.org/10.5281/zenodo.22839383) | CC BY 4.0 |
+| **Analysis code** — this repository | Zenodo [`10.5281/zenodo.22838256`](https://doi.org/10.5281/zenodo.22838256) | MIT |
 | **Curated long-term record** for site PE-TNR | [AmeriFlux PE-TNR](https://ameriflux.lbl.gov/sites/siteinfo/PE-TNR) | per AmeriFlux site policy |
 
 To reproduce the figures, download the half-hourly record and place it at

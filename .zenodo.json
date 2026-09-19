@@ -36,6 +36,18 @@
       "relation": "isSupplementTo",
       "identifier": "https://github.com/rafastern/tambopata-co2-gcb-2026",
       "scheme": "url"
+    },
+    {
+      "relation": "isSupplementedBy",
+      "identifier": "10.5281/zenodo.22838676",
+      "scheme": "doi",
+      "resource_type": "dataset"
+    },
+    {
+      "relation": "isSupplementedBy",
+      "identifier": "10.5281/zenodo.22839383",
+      "scheme": "doi",
+      "resource_type": "dataset"
     }
   ]
 }
